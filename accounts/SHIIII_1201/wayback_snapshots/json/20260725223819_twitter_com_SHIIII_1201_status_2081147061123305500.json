@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2080782378591506474",
+    "created_at": "2026-07-25T22:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081147061123305500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 25,
+          "id": "1642572441460396038",
+          "start": 15,
+          "username": "Spidex___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081147061123305500",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081012586183827526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @Spidex___ 拿屎当润滑了😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2080782378591506474",
+        "created_at": "2026-07-25T22:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081147061123305500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 25,
+              "id": "1642572441460396038",
+              "start": 15,
+              "username": "Spidex___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081147061123305500",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081012586183827526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @Spidex___ 拿屎当润滑了😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2080782378591506474",
+        "created_at": "2026-07-25T13:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012586183827526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1642572441460396038",
+              "start": 0,
+              "username": "Spidex___"
+            },
+            {
+              "end": 23,
+              "id": "1910709382603825154",
+              "start": 11,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012586183827526",
+        "in_reply_to_user_id": "1642572441460396038",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080782378591506474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spidex___ @SHIIII_1201"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 543,
+          "like_count": 12109,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 625
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T16:59:29.000Z",
+        "description": "Usualmente recurro a bromas tontas para olvidar lo que pasa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@spidex?si=qLd…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@spidex?si=qLdjPSmx0vQqIO0Y",
+                "start": 0,
+                "url": "https://t.co/rK5whNrlzK"
+              }
+            ]
+          }
+        },
+        "id": "1642572441460396038",
+        "name": "Spidex (Héroe de leyenda)",
+        "pinned_tweet_id": "2080050381531254950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032558459284008961/BudAGBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4361,
+          "following_count": 125,
+          "like_count": 4701,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 3241
+        },
+        "url": "https://t.co/rK5whNrlzK",
+        "username": "Spidex___",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2046986715978768794",
+    "created_at": "2026-04-23T04:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047176560839622781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1685092915599773696",
+          "start": 0,
+          "username": "lovelyO3Ocat"
+        },
+        {
+          "end": 22,
+          "id": "1998205154118819841",
+          "start": 14,
+          "username": "Kouuibb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047176560839622781",
+    "in_reply_to_user_id": "1685092915599773696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047093427020726354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyO3Ocat @Kouuibb 多少钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2046986715978768794",
+        "created_at": "2026-04-23T04:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047176560839622781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1685092915599773696",
+              "start": 0,
+              "username": "lovelyO3Ocat"
+            },
+            {
+              "end": 22,
+              "id": "1998205154118819841",
+              "start": 14,
+              "username": "Kouuibb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047176560839622781",
+        "in_reply_to_user_id": "1685092915599773696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047093427020726354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyO3Ocat @Kouuibb 多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685092915599773696",
+        "conversation_id": "2046986715978768794",
+        "created_at": "2026-04-22T23:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047093427020726354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998205154118819841",
+              "start": 0,
+              "username": "Kouuibb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047093427020726354",
+        "in_reply_to_user_id": "1998205154118819841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046986715978768794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kouuibb 我还有19盒，要么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 294,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 232
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T01:00:49.000Z",
+        "description": "这里是一部分的我",
+        "id": "1685092915599773696",
+        "name": ":3",
+        "pinned_tweet_id": "1963960124709433667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960717555880112128/SKp8ZuHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 234,
+          "like_count": 19745,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 376
+        },
+        "username": "lovelyO3Ocat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T01:37:36.000Z",
+        "description": "",
+        "id": "1998205154118819841",
+        "name": "一只熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042723341904285698/1_8kC9s6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "Kouuibb",
+        "verified": false
+      }
+    ]
+  }
+}

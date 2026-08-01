@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2082659750073024956",
+    "created_at": "2026-07-30T02:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082659750073024956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2082545920152100864",
+          "start": 0,
+          "username": "Baicai100801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082659750073024956",
+    "in_reply_to_user_id": "2082545920152100864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@Baicai100801 操鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2082659750073024956",
+        "created_at": "2026-07-30T02:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082659750073024956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2082545920152100864",
+              "start": 0,
+              "username": "Baicai100801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082659750073024956",
+        "in_reply_to_user_id": "2082545920152100864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Baicai100801 操鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "-18cm",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 542,
+          "like_count": 12172,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-29T19:19:21.000Z",
+        "description": "",
+        "id": "2082545920152100864",
+        "name": "Scarlett Willow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082547297360232448/FvBOsr5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "Baicai100801",
+        "verified": false
+      }
+    ]
+  }
+}

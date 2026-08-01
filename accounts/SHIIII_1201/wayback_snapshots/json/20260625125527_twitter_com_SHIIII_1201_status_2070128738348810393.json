@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2069712183164903519",
+    "created_at": "2026-06-25T12:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070128738348810393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 29,
+          "id": "1835285792853254145",
+          "start": 15,
+          "username": "liuyuxin89064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070128738348810393",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070127740989448488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @liuyuxin89064 我操你大爷！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2069712183164903519",
+        "created_at": "2026-06-25T12:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070128738348810393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 29,
+              "id": "1835285792853254145",
+              "start": 15,
+              "username": "liuyuxin89064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070128738348810393",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070127740989448488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @liuyuxin89064 我操你大爷！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2069712183164903519",
+        "created_at": "2026-06-25T12:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070127740989448488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835285792853254145",
+              "start": 0,
+              "username": "liuyuxin89064"
+            },
+            {
+              "end": 27,
+              "id": "1910709382603825154",
+              "start": 15,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070127740989448488",
+        "in_reply_to_user_id": "1835285792853254145",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069712183164903519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyuxin89064 @SHIIII_1201"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 536,
+          "like_count": 10034,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 524
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T11:53:41.000Z",
+        "description": "投稿邮箱yuxinliu8964@gmail.com\n一切都已经开始！爆料革命，唯真不破；唤醒世界，拯救人类！ Take down the CCP！Gettr: https://t.co/wqcyR7pUWc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gettr.com/user/liuyuxin8…",
+                "end": 104,
+                "expanded_url": "https://gettr.com/user/liuyuxin8964",
+                "start": 81,
+                "url": "https://t.co/wqcyR7pUWc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@liuyuxin89064…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@liuyuxin89064?si=6dWpKdJ42nmxiBp-",
+                "start": 0,
+                "url": "https://t.co/bImCZGvXd9"
+              }
+            ]
+          }
+        },
+        "id": "1835285792853254145",
+        "location": "New York, USA",
+        "name": "Allen 热评（文鑫）",
+        "pinned_tweet_id": "2051678064254312764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061504928187662336/rhr2BZaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19418,
+          "following_count": 423,
+          "like_count": 4745,
+          "listed_count": 37,
+          "media_count": 4080,
+          "tweet_count": 15669
+        },
+        "url": "https://t.co/bImCZGvXd9",
+        "username": "liuyuxin89064",
+        "verified": false
+      }
+    ]
+  }
+}

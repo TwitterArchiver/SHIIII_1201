@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2077397774346383695",
+    "created_at": "2026-07-16T08:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077671878836326753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 30,
+          "id": "1989323215630680064",
+          "start": 16,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077671878836326753",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077397774346383695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele @WangQing18189"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25147,
+        "height": 1280,
+        "media_key": "13_2077268638051299329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077268638051299329/img/nsLqPQ33laTM8kIB.jpg",
+        "public_metrics": {
+          "view_count": 199990
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268638051299329/vid/avc1/320x568/zIhRyEdZliV0YbYs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268638051299329/vid/avc1/480x852/MQEGXE_MgB8TfUYK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077268638051299329/vid/avc1/720x1280/ackcyenLhDAREIO9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077268638051299329/pl/ikLdl_sWPYvbo7hj.m3u8?v=993"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2077397774346383695",
+        "created_at": "2026-07-16T08:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077671878836326753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 30,
+              "id": "1989323215630680064",
+              "start": 16,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077671878836326753",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077397774346383695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @WangQing18189"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077268638051299329"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077397774346383695",
+        "created_at": "2026-07-15T14:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077397774346383695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z8sqUAtuoz",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077397774346383695/video/1",
+              "media_key": "13_2077268638051299329",
+              "start": 149,
+              "url": "https://t.co/Z8sqUAtuoz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077397774346383695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 404,
+          "impression_count": 387024,
+          "like_count": 3051,
+          "quote_count": 42,
+          "reply_count": 347,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "一场大雨，冲塌了沈阳的“诚信”，露出了里面的“铁皮”\n7月15日，有发帖称，沈阳南市场地标性景观“诚信宝鼎”在一场大雨后发生倒塌损毁。 视频中，倒塌后的宝鼎损毁严重，内部结构彻底裸露。\n讽刺的是，这座本应代表“诚信”的沉稳建筑，内部竟全是由薄薄的铁皮拼接而成，被网友调侃为“面子工程经不起风雨”。 https://t.co/Z8sqUAtuoz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 536,
+          "like_count": 11617,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2247525,
+          "following_count": 1078,
+          "like_count": 9797,
+          "listed_count": 8822,
+          "media_count": 50475,
+          "tweet_count": 57692
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

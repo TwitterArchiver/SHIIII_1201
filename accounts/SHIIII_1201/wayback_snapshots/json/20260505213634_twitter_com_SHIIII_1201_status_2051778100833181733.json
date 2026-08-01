@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2051699138673459441",
+    "created_at": "2026-05-05T21:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T22:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051778100833181733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051305682985705472",
+          "start": 0,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051778100833181733",
+    "in_reply_to_user_id": "2051305682985705472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051699138673459441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeibeiBean ❤️免费破处❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2051699138673459441",
+        "created_at": "2026-05-05T21:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051778100833181733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051305682985705472",
+              "start": 0,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051778100833181733",
+        "in_reply_to_user_id": "2051305682985705472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051699138673459441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeibeiBean ❤️免费破处❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051305682985705472",
+        "conversation_id": "2051699138673459441",
+        "created_at": "2026-05-05T16:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051699138673459441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051699138673459441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新人玩推，多多关照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 412,
+          "like_count": 4799,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 311
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067865221419712512"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067612204606644683",
+    "created_at": "2026-06-19T07:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067865230290628763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 26,
+          "id": "1685499489493323776",
+          "start": 15,
+          "username": "GuiMengNya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q43Y5XsDXC",
+          "end": 56,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2067865230290628763/photo/1",
+          "media_key": "3_2067865221419712512",
+          "start": 33,
+          "url": "https://t.co/Q43Y5XsDXC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067865230290628763",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067864599563825373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @GuiMengNya ✋🏻😭✋🏻 https://t.co/Q43Y5XsDXC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2067865221419712512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKIdn4bQAAxSQl.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067865221419712512"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067612204606644683",
+        "created_at": "2026-06-19T07:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067865230290628763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 26,
+              "id": "1685499489493323776",
+              "start": 15,
+              "username": "GuiMengNya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q43Y5XsDXC",
+              "end": 56,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2067865230290628763/photo/1",
+              "media_key": "3_2067865221419712512",
+              "start": 33,
+              "url": "https://t.co/Q43Y5XsDXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067865230290628763",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067864599563825373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @GuiMengNya ✋🏻😭✋🏻 https://t.co/Q43Y5XsDXC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2067612204606644683",
+        "created_at": "2026-06-19T06:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T07:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067864599563825373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            },
+            {
+              "end": 24,
+              "id": "1910709382603825154",
+              "start": 12,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067864599563825373",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067612204606644683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya @SHIIII_1201"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 529,
+          "like_count": 9607,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 491
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/x x xxx/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10397,
+          "following_count": 692,
+          "like_count": 11496,
+          "listed_count": 30,
+          "media_count": 2318,
+          "tweet_count": 4699
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2040111125476573533",
+    "created_at": "2026-04-04T06:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040314189726818332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1954524887454011392",
+          "start": 0,
+          "username": "xiexiefubenXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040314189726818332",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040111125476573533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiexiefubenXX 可以互fo吗🥺🤲🏻❤️(￣▽￣)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2040111125476573533",
+        "created_at": "2026-04-04T06:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040314189726818332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "xiexiefubenXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040314189726818332",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040111125476573533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiexiefubenXX 可以互fo吗🥺🤲🏻❤️(￣▽￣)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2040111125476573533",
+        "created_at": "2026-04-03T16:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040111125476573533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040111125476573533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是蝎些 同类互fo呀！\nShe/her/✂️sh✂️/🥂酒/✏️画画🖊/偶尔哦滴💊❤️‍🩹/🎶剧烈喜欢听歌🎧听日摇 电音之类的/还有一切甜品🍮🍩🍨\n账号发些日常碎碎念\n蝎些不擅长言语！orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027082663354597376/3tvlIAAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 160,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 63
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。",
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血謝X",
+        "pinned_tweet_id": "2040111125476573533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019112095196069888/5sk-aoHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 297,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1086
+        },
+        "username": "xiexiefubenXX",
+        "verified": false
+      }
+    ]
+  }
+}

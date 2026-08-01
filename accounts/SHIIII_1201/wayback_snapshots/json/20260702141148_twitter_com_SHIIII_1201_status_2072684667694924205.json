@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2072585462871626038",
+    "created_at": "2026-07-02T14:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072684667694924205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        },
+        {
+          "end": 26,
+          "id": "2054583279257583616",
+          "start": 15,
+          "username": "thexiexx3x"
+        },
+        {
+          "end": 41,
+          "id": "1989323215630680064",
+          "start": 27,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072684667694924205",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072585462871626038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 @thexiexx3x @WangQing18189"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2072585462871626038",
+        "created_at": "2026-07-02T14:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072684667694924205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 26,
+              "id": "2054583279257583616",
+              "start": 15,
+              "username": "thexiexx3x"
+            },
+            {
+              "end": 41,
+              "id": "1989323215630680064",
+              "start": 27,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072684667694924205",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072585462871626038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 @thexiexx3x @WangQing18189"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2072585462871626038",
+        "created_at": "2026-07-02T07:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072585462871626038"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072585462871626038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6744,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "您好，鉴于您磕过药，我们这边给你一颗肾的报价是10块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 531,
+          "like_count": 10669,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 224,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T15:25:47.000Z",
+        "description": "=蝎蝎\n大哥@thexiexx\n两个号都被gostban了无法互动很抱歉orz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "thexiexx"
+              }
+            ]
+          }
+        },
+        "id": "2054583279257583616",
+        "location": "再见，再见",
+        "name": "23点准时睡觉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070912725920940032/E-FS3NrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 177,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 967
+        },
+        "url": "",
+        "username": "thexiexx3x",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

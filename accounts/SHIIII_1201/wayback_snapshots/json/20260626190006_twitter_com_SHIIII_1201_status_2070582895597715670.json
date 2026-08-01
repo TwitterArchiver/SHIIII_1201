@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2070072572666905086",
+    "created_at": "2026-06-26T19:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070582895597715670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 26,
+          "id": "938115028871467009",
+          "start": 15,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070582895597715670",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070506467044766157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @samliu0105 借你吉言！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2070072572666905086",
+        "created_at": "2026-06-26T19:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070582895597715670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 26,
+              "id": "938115028871467009",
+              "start": 15,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070582895597715670",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070506467044766157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @samliu0105 借你吉言！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2070072572666905086",
+        "created_at": "2026-06-26T13:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070506467044766157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 24,
+              "id": "938115028871467009",
+              "start": 13,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070506467044766157",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070324237659955463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @samliu0105 ok四級包过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 533,
+          "like_count": 10166,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "欢迎大家来和我做朋友喵🤗互fo请私信我喵😋",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2067869786634330283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070531101463109632/Ggdn8kH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 672,
+          "like_count": 4234,
+          "listed_count": 0,
+          "media_count": 1105,
+          "tweet_count": 2783
+        },
+        "url": "",
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

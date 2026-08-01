@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2072383934734971011",
+    "created_at": "2026-07-02T01:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T02:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072497725099377021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1137214474044051457",
+          "start": 0,
+          "username": "Friedrich4th"
+        },
+        {
+          "end": 29,
+          "id": "1232674283417149440",
+          "start": 14,
+          "username": "JenniferZeng15"
+        },
+        {
+          "end": 44,
+          "id": "1989323215630680064",
+          "start": 30,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072497725099377021",
+    "in_reply_to_user_id": "1137214474044051457",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072460918110171647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Friedrich4th @JenniferZeng15 @WangQing18189 😹😹😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2072383934734971011",
+        "created_at": "2026-07-02T01:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072497725099377021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1137214474044051457",
+              "start": 0,
+              "username": "Friedrich4th"
+            },
+            {
+              "end": 29,
+              "id": "1232674283417149440",
+              "start": 14,
+              "username": "JenniferZeng15"
+            },
+            {
+              "end": 44,
+              "id": "1989323215630680064",
+              "start": 30,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072497725099377021",
+        "in_reply_to_user_id": "1137214474044051457",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072460918110171647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Friedrich4th @JenniferZeng15 @WangQing18189 😹😹😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1137214474044051457",
+        "conversation_id": "2072383934734971011",
+        "created_at": "2026-07-01T23:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072460918110171647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1232674283417149440",
+              "start": 0,
+              "username": "JenniferZeng15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072460918110171647",
+        "in_reply_to_user_id": "1232674283417149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6822,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072383934734971011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JenniferZeng15 这……难道金正恩一发即中？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 533,
+          "like_count": 10643,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-08T04:27:13.000Z",
+        "description": "香港独立！上海独立！本推目前关注点：1、繁荣理论的研讨和传播。2、新欧洲方案：解体中共，香港、上海独立，两点带沿海，沿海带内陆，诸省独立建国，形成和平竞争与合作的欧洲式格局。3、中国民主转型的项目式管理和方案可行性研究。",
+        "id": "1137214474044051457",
+        "name": "佛瑞德里希4th😷",
+        "pinned_tweet_id": "1714746152799580169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1168564765813141505/4Z5BNLrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49585,
+          "following_count": 1572,
+          "like_count": 93250,
+          "listed_count": 246,
+          "media_count": 223,
+          "tweet_count": 18431
+        },
+        "url": "",
+        "username": "Friedrich4th",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-26T14:31:24.000Z",
+        "description": "國際新聞協會成員，作家，自媒體人。 \n英文主號：@jenniferzeng97 \n中文頻道：https://t.co/8bmfXjvTpI \n英文頻道：https://t.co/d1RmexzIXe \n爆料郵箱：editor@jenniferzengblog.com\n支持我：https://t.co/zKu2Pueqme",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "jenniferzeng97"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3UJxQZP",
+                "end": 69,
+                "expanded_url": "http://bit.ly/3UJxQZP",
+                "start": 46,
+                "url": "https://t.co/8bmfXjvTpI"
+              },
+              {
+                "display_url": "bit.ly/3Arpv5B",
+                "end": 99,
+                "expanded_url": "http://bit.ly/3Arpv5B",
+                "start": 76,
+                "url": "https://t.co/d1RmexzIXe"
+              },
+              {
+                "display_url": "bit.ly/3BhHBoa",
+                "end": 161,
+                "expanded_url": "http://bit.ly/3BhHBoa",
+                "start": 138,
+                "url": "https://t.co/zKu2Pueqme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jenniferzengblog.com",
+                "end": 23,
+                "expanded_url": "https://www.jenniferzengblog.com",
+                "start": 0,
+                "url": "https://t.co/e8PcFCJhKk"
+              }
+            ]
+          }
+        },
+        "id": "1232674283417149440",
+        "location": "New York",
+        "name": "曾錚",
+        "pinned_tweet_id": "1845598945222734064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878842982289305611/lzhLPPm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27150,
+          "following_count": 606,
+          "like_count": 28065,
+          "listed_count": 124,
+          "media_count": 2912,
+          "tweet_count": 20898
+        },
+        "url": "https://t.co/e8PcFCJhKk",
+        "username": "JenniferZeng15",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

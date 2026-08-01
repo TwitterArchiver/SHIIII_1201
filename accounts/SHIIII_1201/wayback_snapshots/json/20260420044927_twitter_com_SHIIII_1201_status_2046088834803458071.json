@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2046065970234675452",
+    "created_at": "2026-04-20T04:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046088834803458071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046088834803458071",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046065970234675452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 我第一次抽烟的时候自动解锁回笼 后来才从嘴里过肺（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22442,
+        "height": 1280,
+        "media_key": "7_2046065929428389888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046065929428389888/pu/img/bY4tjJR4WdBo17WN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046065929428389888/pu/vid/avc1/320x568/6aWe8gKzilCgmSe8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046065929428389888/pu/vid/avc1/480x852/cH1OeyChFs9OG7z7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046065929428389888/pu/vid/avc1/720x1280/_5wvk0nuB3KugQsF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046065929428389888/pu/pl/6JQhtUOG4Lbjs4uZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2046065970234675452",
+        "created_at": "2026-04-20T04:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046088834803458071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046088834803458071",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046065970234675452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 我第一次抽烟的时候自动解锁回笼 后来才从嘴里过肺（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046065929428389888"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2046065970234675452",
+        "created_at": "2026-04-20T03:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046065970234675452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SuO6rfqo0N",
+              "end": 31,
+              "expanded_url": "https://x.com/hg3551019177402/status/2046065970234675452/video/1",
+              "media_key": "7_2046065929428389888",
+              "start": 8,
+              "url": "https://t.co/SuO6rfqo0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046065970234675452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有第二期！？ https://t.co/SuO6rfqo0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 276,
+          "like_count": 1906,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 200
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 558,
+          "like_count": 18614,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 8697
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

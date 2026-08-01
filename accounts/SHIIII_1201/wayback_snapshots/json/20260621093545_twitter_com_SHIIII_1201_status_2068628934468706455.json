@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068628929016102912"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2068208914999492882",
+    "created_at": "2026-06-21T09:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068628934468706455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 30,
+          "id": "1583617371629129734",
+          "start": 15,
+          "username": "juliaminegirl0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZtIGFIORj",
+          "end": 63,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2068628934468706455/photo/1",
+          "media_key": "3_2068628929016102912",
+          "start": 40,
+          "url": "https://t.co/pZtIGFIORj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068628934468706455",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068602468704080321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @juliaminegirl0 从未设想过的角度 https://t.co/pZtIGFIORj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2068628929016102912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU_DQYaAAAjP-w.jpg",
+        "width": 539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068628929016102912"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2068208914999492882",
+        "created_at": "2026-06-21T09:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068628934468706455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 30,
+              "id": "1583617371629129734",
+              "start": 15,
+              "username": "juliaminegirl0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZtIGFIORj",
+              "end": 63,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2068628934468706455/photo/1",
+              "media_key": "3_2068628929016102912",
+              "start": 40,
+              "url": "https://t.co/pZtIGFIORj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068628934468706455",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068602468704080321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @juliaminegirl0 从未设想过的角度 https://t.co/pZtIGFIORj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2068208914999492882",
+        "created_at": "2026-06-21T07:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068602468704080321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1583617371629129734",
+              "start": 0,
+              "username": "juliaminegirl0"
+            },
+            {
+              "end": 28,
+              "id": "1910709382603825154",
+              "start": 16,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068602468704080321",
+        "in_reply_to_user_id": "1583617371629129734",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068208914999492882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juliaminegirl0 @SHIIII_1201"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 533,
+          "like_count": 9777,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 507
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T00:33:11.000Z",
+        "description": "",
+        "id": "1583617371629129734",
+        "name": "jorge",
+        "pinned_tweet_id": "1688609238497603584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066958575096774656/KIhlAyOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35755,
+          "following_count": 714,
+          "like_count": 96157,
+          "listed_count": 18,
+          "media_count": 16133,
+          "tweet_count": 63498
+        },
+        "url": "",
+        "username": "juliaminegirl0",
+        "verified": false
+      }
+    ]
+  }
+}

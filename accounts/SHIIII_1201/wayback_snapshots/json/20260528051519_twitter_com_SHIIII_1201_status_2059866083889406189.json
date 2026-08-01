@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2059866083889406189",
+    "created_at": "2026-05-28T05:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059866083889406189"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "你没看过的六四"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 52,
+          "id": "20784367",
+          "start": 43,
+          "username": "hrichina"
+        },
+        {
+          "end": 68,
+          "id": "1656400988528340992",
+          "start": 59,
+          "username": "HChina89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059866083889406189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046748319196881376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 在六四37周年即将到来之际，我们与 中国人权 @hrichina 和人道中国 @HChina89 共同推出 #你没看过的六四 珍贵历史图片展。\n\n​提到1989年，许多人的记忆或许只停留在北京天安门，但事实上，那场民主浪潮曾席卷全国，震撼…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2046681022788427776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdFi-PWYAA52uJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2872,
+        "media_key": "3_2046681030568878080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdFjbOWoAAr59o.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2617,
+        "media_key": "3_2046681039611863042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdFj86XoAIraVg.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2612,
+        "media_key": "3_2046681048923123712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGdFkfmWMAAMzNf.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2059866083889406189",
+        "created_at": "2026-05-28T05:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059866083889406189"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "你没看过的六四"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 52,
+              "id": "20784367",
+              "start": 43,
+              "username": "hrichina"
+            },
+            {
+              "end": 68,
+              "id": "1656400988528340992",
+              "start": 59,
+              "username": "HChina89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059866083889406189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046748319196881376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 在六四37周年即将到来之际，我们与 中国人权 @hrichina 和人道中国 @HChina89 共同推出 #你没看过的六四 珍贵历史图片展。\n\n​提到1989年，许多人的记忆或许只停留在北京天安门，但事实上，那场民主浪潮曾席卷全国，震撼…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046681022788427776",
+            "3_2046681030568878080",
+            "3_2046681039611863042",
+            "3_2046681048923123712"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2046748319196881376",
+        "created_at": "2026-04-22T00:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046748319196881376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "你没看过的六四"
+            },
+            {
+              "end": 145,
+              "start": 139,
+              "tag": "六四在杭州"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "20784367",
+              "start": 23,
+              "username": "hrichina"
+            },
+            {
+              "end": 48,
+              "id": "1656400988528340992",
+              "start": 39,
+              "username": "HChina89"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSLYUXfahC",
+              "end": 176,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046748319196881376/photo/1",
+              "media_key": "3_2046681022788427776",
+              "start": 153,
+              "url": "https://t.co/TSLYUXfahC"
+            },
+            {
+              "display_url": "pic.x.com/TSLYUXfahC",
+              "end": 176,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046748319196881376/photo/1",
+              "media_key": "3_2046681030568878080",
+              "start": 153,
+              "url": "https://t.co/TSLYUXfahC"
+            },
+            {
+              "display_url": "pic.x.com/TSLYUXfahC",
+              "end": 176,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046748319196881376/photo/1",
+              "media_key": "3_2046681039611863042",
+              "start": 153,
+              "url": "https://t.co/TSLYUXfahC"
+            },
+            {
+              "display_url": "pic.x.com/TSLYUXfahC",
+              "end": 176,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2046748319196881376/photo/1",
+              "media_key": "3_2046681048923123712",
+              "start": 153,
+              "url": "https://t.co/TSLYUXfahC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046748319196881376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "你没看过的六四"
+              },
+              {
+                "end": 145,
+                "start": 139,
+                "tag": "六四在杭州"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "id": "20784367",
+                "start": 23,
+                "username": "hrichina"
+              },
+              {
+                "end": 48,
+                "id": "1656400988528340992",
+                "start": 39,
+                "username": "HChina89"
+              },
+              {
+                "end": 321,
+                "id": "20784367",
+                "start": 312,
+                "username": "hrichina"
+              }
+            ]
+          },
+          "text": "在六四37周年即将到来之际，我们与 中国人权 @hrichina 和人道中国 @HChina89 共同推出 #你没看过的六四 珍贵历史图片展。\n\n​提到1989年，许多人的记忆或许只停留在北京天安门，但事实上，那场民主浪潮曾席卷全国，震撼世界。这组首度公开的老照片，记录了当年 #六四在杭州 的真实景象。\n\n​画面中，杭州的民众与学生走上街头，打出的横幅标语即使在今天看来依然令人震撼：\n▪️“铲除专制！”\n▪️“喉舌要表达民意”\n▪️“邓赵李 没人性”\n▪️“邓小平同志 还不走？！”\n▪️“废除变相领导终身制”\n\n​历史不应被遗忘，真相存在于民间。\n如果你手中也珍藏着1989年全国各地相关的历史照片或视频，欢迎私信向 @hrichina 投稿，让那些被尘封的记忆重新被世界看见！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 4487888,
+          "like_count": 2313,
+          "quote_count": 19,
+          "reply_count": 353,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "在六四37周年即将到来之际，我们与 中国人权 @hrichina 和人道中国 @HChina89 共同推出 #你没看过的六四 珍贵历史图片展。\n\n​提到1989年，许多人的记忆或许只停留在北京天安门，但事实上，那场民主浪潮曾席卷全国，震撼世界。这组首度公开的老照片，记录了当年 #六四在杭州 的真实景象。 https://t.co/TSLYUXfahC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 484,
+          "like_count": 7365,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 420
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234498,
+          "following_count": 1067,
+          "like_count": 9598,
+          "listed_count": 8781,
+          "media_count": 47530,
+          "tweet_count": 54665
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-13T16:45:40.000Z",
+        "description": "Founded in March 1989, HRIC is dedicated to promoting international human rights and advancing the institutional protection of these rights in #China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.hrichina.org",
+                "end": 23,
+                "expanded_url": "http://new.hrichina.org",
+                "start": 0,
+                "url": "https://t.co/MyUsDtkaqv"
+              }
+            ]
+          }
+        },
+        "id": "20784367",
+        "location": "New York & Hong Kong",
+        "name": "中国人权-Human Rights in China",
+        "pinned_tweet_id": "2059690032613740770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678842988393291779/U4Nl3HSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91066,
+          "following_count": 1136,
+          "like_count": 3577,
+          "listed_count": 799,
+          "media_count": 3599,
+          "tweet_count": 17915
+        },
+        "url": "https://t.co/MyUsDtkaqv",
+        "username": "hrichina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-10T20:49:40.000Z",
+        "description": "A non-profit founded in 2004 by 1989 student protesters. We support human rights activists in #China. 支持中国政治犯；推动中国建立公民社会；注重无名抗争者 https://t.co/nSIjcvGPe7",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "China"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/hchina89",
+                "end": 152,
+                "expanded_url": "https://linktr.ee/hchina89",
+                "start": 129,
+                "url": "https://t.co/nSIjcvGPe7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-china.org",
+                "end": 23,
+                "expanded_url": "https://h-china.org/",
+                "start": 0,
+                "url": "https://t.co/9aOcQGw82g"
+              }
+            ]
+          }
+        },
+        "id": "1656400988528340992",
+        "location": "California, US",
+        "name": "人道中国 Humanitarian China",
+        "pinned_tweet_id": "1962472359731880030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656402212027858946/0NcAQuI3_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14296,
+          "following_count": 168,
+          "like_count": 1011,
+          "listed_count": 64,
+          "media_count": 146,
+          "tweet_count": 7444
+        },
+        "url": "https://t.co/9aOcQGw82g",
+        "username": "HChina89",
+        "verified": false
+      }
+    ]
+  }
+}

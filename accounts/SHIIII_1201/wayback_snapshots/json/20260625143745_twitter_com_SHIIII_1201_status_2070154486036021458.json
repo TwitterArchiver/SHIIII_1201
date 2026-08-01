@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2069749959990358269",
+    "created_at": "2026-06-25T14:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T15:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070154486036021458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1585275680010301441",
+          "start": 0,
+          "username": "BTC99M"
+        },
+        {
+          "end": 22,
+          "id": "1989323215630680064",
+          "start": 8,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070154486036021458",
+    "in_reply_to_user_id": "1585275680010301441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069749959990358269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BTC99M @WangQing18189 看评论"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2069749947793121280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk6nIwXoAACJN3.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2069749959990358269",
+        "created_at": "2026-06-25T14:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070154486036021458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1585275680010301441",
+              "start": 0,
+              "username": "BTC99M"
+            },
+            {
+              "end": 22,
+              "id": "1989323215630680064",
+              "start": 8,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070154486036021458",
+        "in_reply_to_user_id": "1585275680010301441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069749959990358269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BTC99M @WangQing18189 看评论"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069749947793121280"
+          ]
+        },
+        "author_id": "1585275680010301441",
+        "conversation_id": "2069749959990358269",
+        "created_at": "2026-06-24T11:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069749959990358269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IX2CQAfZ3u",
+              "end": 42,
+              "expanded_url": "https://x.com/BTC99M/status/2069749959990358269/photo/1",
+              "media_key": "3_2069749947793121280",
+              "start": 19,
+              "url": "https://t.co/IX2CQAfZ3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069749959990358269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 915758,
+          "like_count": 2707,
+          "quote_count": 17,
+          "reply_count": 886,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "第一次见纹鲁智深的，男朋友压力很大。 https://t.co/IX2CQAfZ3u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 537,
+          "like_count": 10060,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T14:22:39.000Z",
+        "description": "#Binance 2017入圈 | 最高战绩 链游单项目 A8 \n🏁OKX Boost 粉丝群 ：https://t.co/M3o5prOQht\n🦞AI Token 资源交流 Hub：https://t.co/Guhdl9cFEc\n📍专注方向: AI Token | 加密投研 | 脚本策略  | 空投猎人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/i_okx",
+                "end": 72,
+                "expanded_url": "https://t.me/i_okx",
+                "start": 49,
+                "url": "https://t.co/M3o5prOQht"
+              },
+              {
+                "display_url": "t.me/wo_ai",
+                "end": 115,
+                "expanded_url": "https://t.me/wo_ai",
+                "start": 92,
+                "url": "https://t.co/Guhdl9cFEc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BTC99M",
+                "end": 23,
+                "expanded_url": "https://t.me/BTC99M",
+                "start": 0,
+                "url": "https://t.co/yVYlqeF4Jp"
+              }
+            ]
+          }
+        },
+        "id": "1585275680010301441",
+        "location": "商务合作Telegram➡",
+        "name": "Dylan.迪伦丨🌊RIVER🐬TermMax",
+        "pinned_tweet_id": "2033111249391886650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984920869735702528/kPRbIQZz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95921,
+          "following_count": 2059,
+          "like_count": 99930,
+          "listed_count": 138,
+          "media_count": 2071,
+          "tweet_count": 114508
+        },
+        "url": "https://t.co/yVYlqeF4Jp",
+        "username": "BTC99M",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

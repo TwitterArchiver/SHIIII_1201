@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2044598993901281397",
+    "created_at": "2026-04-16T14:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T15:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044785964812583054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044785964812583054",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044598993901281397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 不仅仅是巧克力味！橙子的味道也在甜香里迸发..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044598978118045696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_f8BbaUAAvWmI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2044598993901281397",
+        "created_at": "2026-04-16T14:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044785964812583054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044785964812583054",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044598993901281397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 不仅仅是巧克力味！橙子的味道也在甜香里迸发..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044598978118045696"
+          ]
+        },
+        "author_id": "1578395243891855362",
+        "conversation_id": "2044598993901281397",
+        "created_at": "2026-04-16T02:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044598993901281397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0SWaRpbSd",
+              "end": 33,
+              "expanded_url": "https://x.com/hate_0811/status/2044598993901281397/photo/1",
+              "media_key": "3_2044598978118045696",
+              "start": 10,
+              "url": "https://t.co/w0SWaRpbSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044598993901281397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1433,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个长得像巧克力棒 https://t.co/w0SWaRpbSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 256,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 164
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041769231306649600/9VNYjxZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 236,
+          "like_count": 8454,
+          "listed_count": 5,
+          "media_count": 834,
+          "tweet_count": 7360
+        },
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

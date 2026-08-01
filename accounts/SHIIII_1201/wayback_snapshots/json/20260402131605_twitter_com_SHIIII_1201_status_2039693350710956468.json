@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2039675998669791702",
+    "created_at": "2026-04-02T13:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039693350710956468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016108531028787202",
+          "start": 0,
+          "username": "hello1145110043"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039693350710956468",
+    "in_reply_to_user_id": "2016108531028787202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039675998669791702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello1145110043 宝宝我喜欢你 想和你互fo🤲🏻🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2039675998669791702",
+        "created_at": "2026-04-02T13:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039693350710956468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016108531028787202",
+              "start": 0,
+              "username": "hello1145110043"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039693350710956468",
+        "in_reply_to_user_id": "2016108531028787202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039675998669791702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello1145110043 宝宝我喜欢你 想和你互fo🤲🏻🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2039675998669791702",
+        "created_at": "2026-04-02T12:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039675998669791702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039675998669791702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人喜欢我嘛……\n如果有的话……\n我也喜欢你～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027082663354597376/3tvlIAAu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 153,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "我是啥子",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我免费送炸鸡（bushi ）🍥",
+        "pinned_tweet_id": "2039368536037146659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036130106041835524/HGA7DrSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 100,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 527
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

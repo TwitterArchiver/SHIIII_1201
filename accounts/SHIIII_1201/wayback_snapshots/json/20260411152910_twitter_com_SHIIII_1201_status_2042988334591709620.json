@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2042983886771060898",
+    "created_at": "2026-04-11T15:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042988334591709620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042988334591709620",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042983886771060898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 摸摸你...ww🥹不要难过 不要在意别人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2042983886771060898",
+        "created_at": "2026-04-11T15:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042988334591709620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042988334591709620",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042983886771060898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 摸摸你...ww🥹不要难过 不要在意别人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975516163078594560",
+        "conversation_id": "2042983886771060898",
+        "created_at": "2026-04-11T15:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042983886771060898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042983886771060898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嫌弃我丑还和我在一起真是辛苦你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 216,
+          "like_count": 971,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 121
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "提问https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 25,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 2,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 944,
+          "like_count": 7971,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 1397
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2076129769285136725",
+    "created_at": "2026-07-12T02:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T03:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076136523251257470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051305682985705472",
+          "start": 0,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076136523251257470",
+    "in_reply_to_user_id": "2051305682985705472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076129769285136725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeibeiBean 哒哒哒哒哒～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2076129769285136725",
+        "created_at": "2026-07-12T02:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076136523251257470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051305682985705472",
+              "start": 0,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076136523251257470",
+        "in_reply_to_user_id": "2051305682985705472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076129769285136725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeibeiBean 哒哒哒哒哒～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051305682985705472",
+        "conversation_id": "2076129769285136725",
+        "created_at": "2026-07-12T02:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T03:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076129769285136725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076129769285136725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？云朵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 531,
+          "like_count": 11366,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 585
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean（求互动）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

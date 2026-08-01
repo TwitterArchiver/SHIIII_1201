@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2051119382999228582",
+    "created_at": "2026-05-05T04:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T05:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051516946215301620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944242736640798721",
+          "start": 0,
+          "username": "LearnedToad"
+        },
+        {
+          "end": 23,
+          "id": "906703622112776193",
+          "start": 13,
+          "username": "KANEKEN47"
+        },
+        {
+          "end": 38,
+          "id": "729128222416248832",
+          "start": 24,
+          "username": "newpeoplelike"
+        },
+        {
+          "end": 50,
+          "id": "2051305682985705472",
+          "start": 39,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051516946215301620",
+    "in_reply_to_user_id": "1944242736640798721",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051119382999228582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LearnedToad @KANEKEN47 @newpeoplelike @BeibeiBean 🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35016,
+        "height": 1920,
+        "media_key": "13_2051119307677904896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051119307677904896/img/BMgTtNqwPJdLBH2l.jpg",
+        "public_metrics": {
+          "view_count": 167208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051119307677904896/vid/avc1/1080x1920/HgUOCBBXKJgl2zU0.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051119307677904896/vid/avc1/480x852/sfu-EEh273dmZM4Z.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051119307677904896/vid/avc1/320x568/OjEO1sPH6NtGytkM.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051119307677904896/pl/wANmTm77I6cfgZUj.m3u8?tag=27&v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051119307677904896/vid/avc1/720x1280/1k8dVnja-X_ZdR7c.mp4?tag=27"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2051119382999228582",
+        "created_at": "2026-05-05T04:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T05:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051516946215301620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944242736640798721",
+              "start": 0,
+              "username": "LearnedToad"
+            },
+            {
+              "end": 23,
+              "id": "906703622112776193",
+              "start": 13,
+              "username": "KANEKEN47"
+            },
+            {
+              "end": 38,
+              "id": "729128222416248832",
+              "start": 24,
+              "username": "newpeoplelike"
+            },
+            {
+              "end": 50,
+              "id": "2051305682985705472",
+              "start": 39,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051516946215301620",
+        "in_reply_to_user_id": "1944242736640798721",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051119382999228582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LearnedToad @KANEKEN47 @newpeoplelike @BeibeiBean 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051119307677904896"
+          ]
+        },
+        "author_id": "1944242736640798721",
+        "conversation_id": "2051119382999228582",
+        "created_at": "2026-05-04T01:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051119382999228582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 53,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "906703622112776193",
+              "start": 25,
+              "username": "KANEKEN47"
+            },
+            {
+              "end": 50,
+              "id": "729128222416248832",
+              "start": 36,
+              "username": "newpeoplelike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8925GKm3Cm",
+              "end": 86,
+              "expanded_url": "https://x.com/LearnedToad/status/2051119382999228582/video/1",
+              "media_key": "13_2051119307677904896",
+              "start": 63,
+              "url": "https://t.co/8925GKm3Cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051119382999228582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1320,
+          "impression_count": 237968,
+          "like_count": 4067,
+          "quote_count": 2,
+          "reply_count": 118,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "狼尊误入电榨园区\nmp3腿环双两百是真狠啊😈\n📹：@KANEKEN47 @newpeoplelike \n\n#kigurumi https://t.co/8925GKm3Cm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 410,
+          "like_count": 4619,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 306
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T03:49:36.000Z",
+        "description": "新泽西kiger，在做科技头壳，PhD student in Computer Science。所有内容（图片视频和项目）都是学习交流用途的免费分享！只在X发布内容，假如你在其他地方看到卖的那都是盗的和本人无关（特别是妖狐吧！）。All content is free on X. No OF, Fantia etc.",
+        "id": "1944242736640798721",
+        "location": "New Jersey, USA",
+        "name": "机械神教驻神圣泰拉机械神甫0059",
+        "pinned_tweet_id": "1963178499276992645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944243041746714624/CmUlckos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19945,
+          "following_count": 546,
+          "like_count": 2491,
+          "listed_count": 70,
+          "media_count": 149,
+          "tweet_count": 1379
+        },
+        "username": "LearnedToad",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-10T02:19:24.000Z",
+        "description": "擅长木乃伊全包和奇怪的创意拘束。目前在新泽西，偶尔在北京。可以约全包，绳（不太擅长）或者女囚体验，欢迎妹子和可爱的女装男孩子（有兴趣的话可以私信)。本门是物理，对社会学和历史也有些许研究，可以礼貌地交流各路有趣的科学和哲学观点。十八岁以下请回避。Specialized in mummification.Welcome.",
+        "id": "906703622112776193",
+        "location": "New Jersey, USA",
+        "name": "KANE 47",
+        "pinned_tweet_id": "2042441637763125396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695495845620195328/PQMSccVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29697,
+          "following_count": 6437,
+          "like_count": 111997,
+          "listed_count": 100,
+          "media_count": 349,
+          "tweet_count": 9361
+        },
+        "username": "KANEKEN47",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-08T01:58:09.000Z",
+        "description": "着ぐるみ初心者／ヘブバン／音ゲー／ラバー／無言フォロー失礼します @newpeoplelike.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "newpeoplelike"
+              }
+            ]
+          }
+        },
+        "id": "729128222416248832",
+        "name": "すうじ",
+        "pinned_tweet_id": "2010673183737745850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445696275114958850/yHxUS6zB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13795,
+          "following_count": 948,
+          "like_count": 546,
+          "listed_count": 86,
+          "media_count": 327,
+          "tweet_count": 602
+        },
+        "username": "newpeoplelike",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

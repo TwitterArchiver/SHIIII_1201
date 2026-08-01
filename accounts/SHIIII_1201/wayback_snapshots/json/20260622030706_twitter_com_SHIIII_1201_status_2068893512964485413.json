@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068893508002562048"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2068688889288790060",
+    "created_at": "2026-06-22T03:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068893512964485413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 30,
+          "id": "1918274202580467713",
+          "start": 15,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZbvgZI3yN",
+          "end": 60,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2068893512964485413/photo/1",
+          "media_key": "3_2068893508002562048",
+          "start": 37,
+          "url": "https://t.co/oZbvgZI3yN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068893512964485413",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068864599416586503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @CyberKanjousen 奶家人报道 https://t.co/oZbvgZI3yN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2068893508002562048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYvrx6awAAkYQ0.jpg",
+        "width": 539
+      },
+      {
+        "height": 1286,
+        "media_key": "3_2068864590776246272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYVYk2aIAAUOSA.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068893508002562048"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2068688889288790060",
+        "created_at": "2026-06-22T03:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068893512964485413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 30,
+              "id": "1918274202580467713",
+              "start": 15,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZbvgZI3yN",
+              "end": 60,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2068893512964485413/photo/1",
+              "media_key": "3_2068893508002562048",
+              "start": 37,
+              "url": "https://t.co/oZbvgZI3yN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068893512964485413",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068864599416586503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @CyberKanjousen 奶家人报道 https://t.co/oZbvgZI3yN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068864590776246272"
+          ]
+        },
+        "author_id": "1989323215630680064",
+        "conversation_id": "2068688889288790060",
+        "created_at": "2026-06-22T01:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068864599416586503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 28,
+              "id": "1910709382603825154",
+              "start": 16,
+              "username": "SHIIII_1201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYImLvqZ0A",
+              "end": 58,
+              "expanded_url": "https://x.com/WangQing18189/status/2068864599416586503/photo/1",
+              "media_key": "3_2068864590776246272",
+              "start": 35,
+              "url": "https://t.co/SYImLvqZ0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068864599416586503",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068688889288790060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @SHIIII_1201 呼叫奶家人 https://t.co/SYImLvqZ0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 533,
+          "like_count": 9815,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7455,
+          "following_count": 872,
+          "like_count": 27529,
+          "listed_count": 11,
+          "media_count": 1626,
+          "tweet_count": 8646
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2080545294035685735",
+    "created_at": "2026-07-25T04:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873674140500222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014979760565456896",
+          "start": 0,
+          "username": "noahduck283"
+        },
+        {
+          "end": 27,
+          "id": "1989323215630680064",
+          "start": 13,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873674140500222",
+    "in_reply_to_user_id": "2014979760565456896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080545294035685735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noahduck283 @WangQing18189 你也是高知人群"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2721,
+        "media_key": "3_2080545287429660672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-U6mxboAA-2wt.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2080545294035685735",
+        "created_at": "2026-07-25T04:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873674140500222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014979760565456896",
+              "start": 0,
+              "username": "noahduck283"
+            },
+            {
+              "end": 27,
+              "id": "1989323215630680064",
+              "start": 13,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873674140500222",
+        "in_reply_to_user_id": "2014979760565456896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080545294035685735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noahduck283 @WangQing18189 你也是高知人群"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080545287429660672"
+          ]
+        },
+        "author_id": "2014979760565456896",
+        "conversation_id": "2080545294035685735",
+        "created_at": "2026-07-24T06:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080545294035685735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FfgmkATB83",
+              "end": 37,
+              "expanded_url": "https://x.com/noahduck283/status/2080545294035685735/photo/1",
+              "media_key": "3_2080545287429660672",
+              "start": 14,
+              "url": "https://t.co/FfgmkATB83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080545294035685735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 121222,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 296,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么高知人群都喜欢奶龙🤔 https://t.co/FfgmkATB83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 544,
+          "like_count": 12103,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T08:33:13.000Z",
+        "description": "🔥 AI最孝顺的儿子×龟男最严厉的父亲\n💗短推传递快乐，长文分享价值\n🏝️带你在信息的海洋找到陆地～\n🚢常互动都会回/X陪跑社群⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDb…",
+                "end": 23,
+                "expanded_url": "https://lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDbi9s8NkkyJccbZXynyf?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/6N1e2zavG0"
+              }
+            ]
+          }
+        },
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "pinned_tweet_id": "2069570117445571061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035372542819696640/v_5bHa9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18041,
+          "following_count": 991,
+          "like_count": 11124,
+          "listed_count": 83,
+          "media_count": 1539,
+          "tweet_count": 15811
+        },
+        "url": "https://t.co/6N1e2zavG0",
+        "username": "noahduck283",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

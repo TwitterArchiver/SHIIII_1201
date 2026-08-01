@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2049356528239640724",
+    "created_at": "2026-04-29T09:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049414171918528519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714351609977978882",
+          "start": 0,
+          "username": "TinxYxx2"
+        },
+        {
+          "end": 21,
+          "id": "2024195400442531841",
+          "start": 10,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049414171918528519",
+    "in_reply_to_user_id": "1714351609977978882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049413741054411093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TinxYxx2 @Xjiajiaouo 谢谢💕💕💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2049356528239640724",
+        "created_at": "2026-04-29T09:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049414171918528519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714351609977978882",
+              "start": 0,
+              "username": "TinxYxx2"
+            },
+            {
+              "end": 21,
+              "id": "2024195400442531841",
+              "start": 10,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049414171918528519",
+        "in_reply_to_user_id": "1714351609977978882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049413741054411093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TinxYxx2 @Xjiajiaouo 谢谢💕💕💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714351609977978882",
+        "conversation_id": "2049356528239640724",
+        "created_at": "2026-04-29T09:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049413741054411093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 24,
+              "id": "2024195400442531841",
+              "start": 13,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049413741054411093",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049356528239640724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @Xjiajiaouo 恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2049356528239640724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 361,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 335
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T18:44:18.000Z",
+        "description": "迷路了也没关系，",
+        "id": "1714351609977978882",
+        "location": "西格玛高原",
+        "name": "令兒8964",
+        "pinned_tweet_id": "2040823982933643599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041444989243441152/z-NEydYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1079,
+          "like_count": 20247,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 4606
+        },
+        "username": "TinxYxx2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\n💊\\🔪\\🚬\n10｜162cm｜40kg 可以叫我小予🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2045432424860119448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 413,
+          "like_count": 7435,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2840
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

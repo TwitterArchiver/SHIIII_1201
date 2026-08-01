@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2049079402898792730",
+    "created_at": "2026-04-28T10:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049079402898792730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910709382603825154",
+          "start": 3,
+          "username": "SHIIII_1201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049079402898792730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049073691498271064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHIIII_1201: 大家快来找12买电子烟！现在不买加上备用也可以！🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2049079402898792730",
+        "created_at": "2026-04-28T10:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049079402898792730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910709382603825154",
+              "start": 3,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049079402898792730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049073691498271064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHIIII_1201: 大家快来找12买电子烟！现在不买加上备用也可以！🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2049073691498271064",
+        "created_at": "2026-04-28T10:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049073691498271064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hg355101917740…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hg3551019177402/status/2048782299035246669",
+              "start": 28,
+              "url": "https://t.co/PMFurJQlnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049073691498271064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048782299035246669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家快来找12买电子烟！现在不买加上备用也可以！🥰🥰🥰 https://t.co/PMFurJQlnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 348,
+          "like_count": 3185,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 305
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      }
+    ]
+  }
+}

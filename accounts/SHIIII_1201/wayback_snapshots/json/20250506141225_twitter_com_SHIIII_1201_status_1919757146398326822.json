@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900552308949006",
+          "name": "MOBAs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1538607121129869313",
+          "name": "Honor of Kings"
+        }
+      }
+    ],
+    "conversation_id": "1918910964877111716",
+    "created_at": "2025-05-06T14:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T15:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919757146398326822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824335360031330305",
+          "start": 0,
+          "username": "Sexytoxiaoshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919757146398326822",
+    "in_reply_to_user_id": "1824335360031330305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918910964877111716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sexytoxiaoshu 王者荣耀 v区 来个哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "1918910964877111716",
+        "created_at": "2025-05-06T14:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T15:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919757146398326822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824335360031330305",
+              "start": 0,
+              "username": "Sexytoxiaoshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919757146398326822",
+        "in_reply_to_user_id": "1824335360031330305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918910964877111716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sexytoxiaoshu 王者荣耀 v区 来个哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824335360031330305",
+        "conversation_id": "1918910964877111716",
+        "created_at": "2025-05-04T06:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T07:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918910964877111716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918910964877111716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 187245,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 363,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "游戏搭子贴\n\n游戏/段位/性别/年龄/声线\n\n看上的互关一起猛猛上分！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709566565998592/ntTDpAav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:40:25.000Z",
+        "description": "超级无敌纯净版叔！在我这里永远看不到广告！只有无穷无尽符合主题的帖子！女生联系阿房宫进行原创验证@SexytoGbds呱呱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "SexytoGbds"
+              }
+            ]
+          }
+        },
+        "id": "1824335360031330305",
+        "name": "沈万姬",
+        "pinned_tweet_id": "1910265719079710793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911798911594856448/CC5qa7t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452999,
+          "following_count": 853,
+          "like_count": 1,
+          "listed_count": 405,
+          "media_count": 419,
+          "tweet_count": 770
+        },
+        "username": "Sexytoxiaoshu",
+        "verified": true
+      }
+    ]
+  }
+}

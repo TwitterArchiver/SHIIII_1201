@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2070724922603889125",
+    "created_at": "2026-06-27T16:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070901281254949232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598612849550454785",
+          "start": 0,
+          "username": "allen5951"
+        },
+        {
+          "end": 25,
+          "id": "1989323215630680064",
+          "start": 11,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070901281254949232",
+    "in_reply_to_user_id": "1598612849550454785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070724922603889125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allen5951 @WangQing18189 原肾没办法启动了🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 843,
+        "media_key": "3_2070724913091186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyxVlhaEAAUjdl.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2070724922603889125",
+        "created_at": "2026-06-27T16:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070901281254949232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598612849550454785",
+              "start": 0,
+              "username": "allen5951"
+            },
+            {
+              "end": 25,
+              "id": "1989323215630680064",
+              "start": 11,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070901281254949232",
+        "in_reply_to_user_id": "1598612849550454785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070724922603889125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allen5951 @WangQing18189 原肾没办法启动了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070724913091186688"
+          ]
+        },
+        "author_id": "1598612849550454785",
+        "conversation_id": "2070724922603889125",
+        "created_at": "2026-06-27T04:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070724922603889125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yv7yz1z4sr",
+              "end": 68,
+              "expanded_url": "https://x.com/allen5951/status/2070724922603889125/photo/1",
+              "media_key": "3_2070724913091186688",
+              "start": 45,
+              "url": "https://t.co/yv7yz1z4sr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070724922603889125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 26655,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 78,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽！换肾不是取出坏肾，\n\n而是直接把新肾塞进去，\n\n坏的还在里面！！！\n\n这真的吗？😱 https://t.co/yv7yz1z4sr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 534,
+          "like_count": 10274,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T09:42:12.000Z",
+        "description": "|日常吐槽｜金牌段子手｜美股 &ETF｜Web3｜科技&AI｜所有观点均不构成投资建议｜欢迎投稿｜",
+        "id": "1598612849550454785",
+        "name": "allen5951",
+        "pinned_tweet_id": "2070003189219557669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039561266499637249/TafvIcvr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 6053,
+          "like_count": 35181,
+          "listed_count": 16,
+          "media_count": 510,
+          "tweet_count": 13203
+        },
+        "url": "",
+        "username": "allen5951",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

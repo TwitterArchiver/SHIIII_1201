@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2055573819386130849",
+    "created_at": "2026-05-16T09:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055583517040640414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039759562815733760",
+          "start": 0,
+          "username": "12sgcsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055583517040640414",
+    "in_reply_to_user_id": "2039759562815733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055573819386130849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sgcsb 你们那里也下雨吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055573816177491968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbdfrLagAApLv9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2055573819386130849",
+        "created_at": "2026-05-16T09:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055583517040640414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039759562815733760",
+              "start": 0,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055583517040640414",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055573819386130849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sgcsb 你们那里也下雨吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055573816177491968"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "conversation_id": "2055573819386130849",
+        "created_at": "2026-05-16T08:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055573819386130849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/18kXDptN37",
+              "end": 25,
+              "expanded_url": "https://x.com/12sgcsb/status/2055573819386130849/photo/1",
+              "media_key": "3_2055573816177491968",
+              "start": 2,
+              "url": "https://t.co/18kXDptN37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055573819386130849",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🧧 https://t.co/18kXDptN37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 469,
+          "like_count": 5990,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 371
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/自戕与死亡",
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12",
+        "pinned_tweet_id": "2055254591760122109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 164,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 227
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2067452240638447646",
+    "created_at": "2026-06-18T10:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067552868027236464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 30,
+          "id": "1989323215630680064",
+          "start": 16,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067552868027236464",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067484388154343433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele @WangQing18189 鸿蒙界都来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2067452240638447646",
+        "created_at": "2026-06-18T10:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067552868027236464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 30,
+              "id": "1989323215630680064",
+              "start": 16,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067552868027236464",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067484388154343433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele @WangQing18189 鸿蒙界都来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2067452240638447646",
+        "created_at": "2026-06-18T05:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067484388154343433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067484388154343433",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "华为还可以申请：凡界、人界、尘界、众生界、万灵界、灵界、玄界、真界、秘界、异界、幻界、梦界、镜界、影界、妖界、万妖界、龙界、凤界、巫界、魔界、天魔界、深渊界、血海界、邪神界、鬼界、冥界、黄泉界、忘川界、幽冥界、酆都界、阴司界、\n地府界、九幽界、死灵界、修罗界、轮回界、真仙界、长生界、蓬莱界、瀛洲界、扶桑界、昆仑界、瑶池界、玉京界、仙庭界、佛界、净土界、极乐界、须弥界、天界、九天界、九霄界、凌霄界、昊天界、苍天界、紫微界、赤霄界、天庭界、神界、古神界、众神界、诸神界、神庭界、圣界、圣域界、圣庭界、帝界、皇极界、至尊界、道界、太清界、上清界、玉清界、大罗界、玄都界、天命界、天启界、命运界、因果界、法则界、本源界、源界、祖界、元界、混元界、太一界、元始界、造化界、乾坤界、六合界、十方界、八荒界、四极界、寰宇界、星界、星海界、苍穹界、山海界、太虚界、虚空界、无尽界、归墟界、天渊界、灵墟界、洪荒界、太古界、远古界、原初界、太初界、混沌界、鸿蒙界、起源界、创世界、永恒界、无上界、至高界、超脱界、彼岸界、终焉界、寂灭界、终界。对了，还有华为界、鸿蒙界、"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 23780,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067452240638447646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华为还可以申请：凡界、人界、尘界、众生界、万灵界、灵界、玄界、真界、秘界、异界、幻界、梦界、镜界、影界、妖界、万妖界、龙界、凤界、巫界、魔界、天魔界、深渊界、血海界、邪神界、鬼界、冥界、黄泉界、忘川界、幽冥界、酆都界、阴司界、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 531,
+          "like_count": 9584,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236905,
+          "following_count": 1070,
+          "like_count": 9712,
+          "listed_count": 8796,
+          "media_count": 48819,
+          "tweet_count": 55987
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2066846750951039402",
+    "created_at": "2026-06-17T04:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067099165361102932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013776155166539776",
+          "start": 0,
+          "username": "l3010045822"
+        },
+        {
+          "end": 27,
+          "id": "1989323215630680064",
+          "start": 13,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067099165361102932",
+    "in_reply_to_user_id": "2013776155166539776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066846750951039402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3010045822 @WangQing18189 这个是不是有点隐晦了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 841,
+        "media_key": "3_2066559963598856193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3lVnlaoAEF_eO.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2066846750951039402",
+        "created_at": "2026-06-17T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067099165361102932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013776155166539776",
+              "start": 0,
+              "username": "l3010045822"
+            },
+            {
+              "end": 27,
+              "id": "1989323215630680064",
+              "start": 13,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067099165361102932",
+        "in_reply_to_user_id": "2013776155166539776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066846750951039402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3010045822 @WangQing18189 这个是不是有点隐晦了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066559963598856193"
+          ]
+        },
+        "author_id": "2013776155166539776",
+        "conversation_id": "2066846750951039402",
+        "created_at": "2026-06-16T11:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066846750951039402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1m5s9KwjJ",
+              "end": 32,
+              "expanded_url": "https://x.com/l3010045822/status/2066846750951039402/photo/1",
+              "media_key": "3_2066559963598856193",
+              "start": 9,
+              "url": "https://t.co/l1m5s9KwjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066846750951039402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 505,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想喝游戏玩家 https://t.co/l1m5s9KwjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 528,
+          "like_count": 9458,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 477
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "生产日期：2004.5丨小证含糖丨 HRT since2026.1.17｜半个家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜亮点会放一些亲身实践，后期可能会更新自拍｜欢迎同类互fo（没看见的话私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "琪露诺🍥（冰雪聪明版）",
+        "pinned_tweet_id": "2060153159570641397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 401,
+          "like_count": 1505,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 1184
+        },
+        "username": "l3010045822",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

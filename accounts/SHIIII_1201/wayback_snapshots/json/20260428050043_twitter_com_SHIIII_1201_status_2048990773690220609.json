@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2048989454254383136",
+    "created_at": "2026-04-28T05:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T06:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048990773690220609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043994337126563840",
+          "start": 0,
+          "username": "Lomyral8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048990773690220609",
+    "in_reply_to_user_id": "2043994337126563840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048989454254383136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral8964 ☺️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2048989454254383136",
+        "created_at": "2026-04-28T05:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T06:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048990773690220609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043994337126563840",
+              "start": 0,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048990773690220609",
+        "in_reply_to_user_id": "2043994337126563840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048989454254383136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral8964 ☺️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043994337126563840",
+        "conversation_id": "2048989454254383136",
+        "created_at": "2026-04-28T04:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048989454254383136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048989454254383136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 325,
+          "like_count": 3097,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 286
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。依然不吸毒不卖东西。网页版操作困难所以回复会比较慢TT\n\n互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 208,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 291
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

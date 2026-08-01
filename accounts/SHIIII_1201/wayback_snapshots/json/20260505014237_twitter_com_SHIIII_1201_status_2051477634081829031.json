@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2051333556321034259",
+    "created_at": "2026-05-05T01:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T02:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051477634081829031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051305682985705472",
+          "start": 0,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051477634081829031",
+    "in_reply_to_user_id": "2051305682985705472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051345478823162279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeibeiBean 哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2051333556321034259",
+        "created_at": "2026-05-05T01:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T02:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051477634081829031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051305682985705472",
+              "start": 0,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051477634081829031",
+        "in_reply_to_user_id": "2051305682985705472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051345478823162279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeibeiBean 哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051305682985705472",
+        "conversation_id": "2051333556321034259",
+        "created_at": "2026-05-04T16:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051345478823162279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051345478823162279",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051333556321034259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 不给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 408,
+          "like_count": 4504,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 301
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 19
+        },
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

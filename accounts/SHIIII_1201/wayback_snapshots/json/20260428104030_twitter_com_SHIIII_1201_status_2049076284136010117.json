@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2049046848946708600",
+    "created_at": "2026-04-28T10:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049076284136010117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1815004256921174016",
+          "start": 0,
+          "username": "Arthur_M_7"
+        },
+        {
+          "end": 28,
+          "id": "1684269091849404416",
+          "start": 12,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049076284136010117",
+    "in_reply_to_user_id": "1815004256921174016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049061282444456071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arthur_M_7 @hg3551019177402 这个有点辣 有股草味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049061275280584704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-6X5wbsAAHrDC.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2049046848946708600",
+        "created_at": "2026-04-28T10:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049076284136010117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1815004256921174016",
+              "start": 0,
+              "username": "Arthur_M_7"
+            },
+            {
+              "end": 28,
+              "id": "1684269091849404416",
+              "start": 12,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049076284136010117",
+        "in_reply_to_user_id": "1815004256921174016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049061282444456071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur_M_7 @hg3551019177402 这个有点辣 有股草味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049061275280584704"
+          ]
+        },
+        "author_id": "1815004256921174016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049046848946708600",
+        "created_at": "2026-04-28T09:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049061282444456071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wca3A0hgHw",
+              "end": 50,
+              "expanded_url": "https://x.com/Arthur_M_7/status/2049061282444456071/photo/1",
+              "media_key": "3_2049061275280584704",
+              "start": 27,
+              "url": "https://t.co/wca3A0hgHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049061282444456071",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049046848946708600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 12觉得这个怎么样 https://t.co/wca3A0hgHw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 348,
+          "like_count": 3164,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 302
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T12:42:06.000Z",
+        "description": "",
+        "id": "1815004256921174016",
+        "name": "Semeia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048698529607299072/3yyOD6kt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 206,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "Arthur_M_7",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 可以干点烟代，电子烟之类的。（价格跟你外面直接买是一样的，但是我能挣个20块，这会让我开心几秒钟） 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2048782299035246669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 684,
+          "like_count": 18488,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 8966
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2048950566450270580",
+    "created_at": "2026-04-28T04:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048978522879009007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042859706142601216",
+          "start": 0,
+          "username": "TankcheOuO"
+        },
+        {
+          "end": 23,
+          "id": "1987496594594496512",
+          "start": 12,
+          "username": "aldn126633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048978522879009007",
+    "in_reply_to_user_id": "2042859706142601216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048960608826163356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TankcheOuO @aldn126633 求一个 我也被骗了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2048950566450270580",
+        "created_at": "2026-04-28T04:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048978522879009007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042859706142601216",
+              "start": 0,
+              "username": "TankcheOuO"
+            },
+            {
+              "end": 23,
+              "id": "1987496594594496512",
+              "start": 12,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048978522879009007",
+        "in_reply_to_user_id": "2042859706142601216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048960608826163356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TankcheOuO @aldn126633 求一个 我也被骗了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042859706142601216",
+        "conversation_id": "2048950566450270580",
+        "created_at": "2026-04-28T03:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048960608826163356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987496594594496512",
+              "start": 0,
+              "username": "aldn126633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048960608826163356",
+        "in_reply_to_user_id": "1987496594594496512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048950566450270580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aldn126633 已经开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 322,
+          "like_count": 3061,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 277
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T06:58:14.000Z",
+        "description": "幽暗的、深邃的、家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+NGZgHLdad28xZ…",
+                "end": 23,
+                "expanded_url": "http://t.me/+NGZgHLdad28xZWJl",
+                "start": 0,
+                "url": "https://t.co/et1GI6cQ9l"
+              }
+            ]
+          }
+        },
+        "id": "2042859706142601216",
+        "name": "坦克姬🎗",
+        "pinned_tweet_id": "2042861236908626197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042860345832935425/WHafROeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 112,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/et1GI6cQ9l",
+        "username": "TankcheOuO",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键",
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 23,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 253
+        },
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

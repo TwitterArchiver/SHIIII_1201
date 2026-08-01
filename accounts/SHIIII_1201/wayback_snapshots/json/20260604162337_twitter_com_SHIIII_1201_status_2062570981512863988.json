@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2062570981512863988",
+    "created_at": "2026-06-04T16:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062570981512863988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751240173650935808",
+          "start": 3,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570981512863988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062548223835734346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liver_MST: 500fo抽奖！\n互fo里好多舞萌玩家，干脆抽点舞萌谷子，不要可以折现，奖品与兑现方式见图。\n关注并转发本帖以参与抽奖，6.6 12:00(UTC+8)截止。\nX可能吞repost，截止后我会发帖确认参与名单，并按转帖时间标号。若您的转帖被吞，请在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062548176289046529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ko3PWoAE8_YW.jpg",
+        "width": 1183
+      },
+      {
+        "height": 1307,
+        "media_key": "3_2062548176284864512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ko3OW0AAvp9u.jpg",
+        "width": 1856
+      },
+      {
+        "height": 1391,
+        "media_key": "3_2062548176276467712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ko3MWsAAfGGp.jpg",
+        "width": 1856
+      },
+      {
+        "height": 1198,
+        "media_key": "3_2062548176377143296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-ko3kW4AAg9nB.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2062570981512863988",
+        "created_at": "2026-06-04T16:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062570981512863988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751240173650935808",
+              "start": 3,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570981512863988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062548223835734346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liver_MST: 500fo抽奖！\n互fo里好多舞萌玩家，干脆抽点舞萌谷子，不要可以折现，奖品与兑现方式见图。\n关注并转发本帖以参与抽奖，6.6 12:00(UTC+8)截止。\nX可能吞repost，截止后我会发帖确认参与名单，并按转帖时间标号。若您的转帖被吞，请在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062548176289046529",
+            "3_2062548176284864512",
+            "3_2062548176276467712",
+            "3_2062548176377143296"
+          ]
+        },
+        "author_id": "1751240173650935808",
+        "conversation_id": "2062548223835734346",
+        "created_at": "2026-06-04T14:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062548223835734346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HICanFl5Lh",
+              "end": 181,
+              "expanded_url": "https://x.com/Liver_MST/status/2062548223835734346/photo/1",
+              "media_key": "3_2062548176289046529",
+              "start": 158,
+              "url": "https://t.co/HICanFl5Lh"
+            },
+            {
+              "display_url": "pic.x.com/HICanFl5Lh",
+              "end": 181,
+              "expanded_url": "https://x.com/Liver_MST/status/2062548223835734346/photo/1",
+              "media_key": "3_2062548176284864512",
+              "start": 158,
+              "url": "https://t.co/HICanFl5Lh"
+            },
+            {
+              "display_url": "pic.x.com/HICanFl5Lh",
+              "end": 181,
+              "expanded_url": "https://x.com/Liver_MST/status/2062548223835734346/photo/1",
+              "media_key": "3_2062548176276467712",
+              "start": 158,
+              "url": "https://t.co/HICanFl5Lh"
+            },
+            {
+              "display_url": "pic.x.com/HICanFl5Lh",
+              "end": 181,
+              "expanded_url": "https://x.com/Liver_MST/status/2062548223835734346/photo/1",
+              "media_key": "3_2062548176377143296",
+              "start": 158,
+              "url": "https://t.co/HICanFl5Lh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062548223835734346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1212,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "500fo抽奖！\n互fo里好多舞萌玩家，干脆抽点舞萌谷子，不要可以折现，奖品与兑现方式见图。\n关注并转发本帖以参与抽奖，6.6 12:00(UTC+8)截止。\nX可能吞repost，截止后我会发帖确认参与名单，并按转帖时间标号。若您的转帖被吞，请在12小时内联系我！\n随后，我将使用随机数生成器准时抽取并发布结果。 https://t.co/HICanFl5Lh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 491,
+          "like_count": 8331,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 453
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2062488691990302808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 572,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 1137
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

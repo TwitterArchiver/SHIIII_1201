@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2060702526278930935",
+    "created_at": "2026-05-31T22:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061208500274102645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1842022926331047936",
+          "start": 0,
+          "username": "susan6030928724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061208500274102645",
+    "in_reply_to_user_id": "1842022926331047936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060903370953838632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susan6030928724 为什么🤔我还打算今天打电话问一下来着，刚做好心理准备"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2060702526278930935",
+        "created_at": "2026-05-31T22:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061208500274102645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1842022926331047936",
+              "start": 0,
+              "username": "susan6030928724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061208500274102645",
+        "in_reply_to_user_id": "1842022926331047936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060903370953838632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susan6030928724 为什么🤔我还打算今天打电话问一下来着，刚做好心理准备"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842022926331047936",
+        "conversation_id": "2060702526278930935",
+        "created_at": "2026-05-31T01:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T02:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060903370953838632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060903370953838632",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060702526278930935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 别找晶哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 485,
+          "like_count": 7850,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 436
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T02:04:42.000Z",
+        "description": "08高龄剩男/\nAgen🏳️‍🌈/无法使用国补购买保健品\n忌谈政治宗教/胡言乱语才不是胡说八道\n因为不是初次使用推特这款软件. 所以若有什么让你难受的发言请当我是个无厘头的苍蝇",
+        "id": "1842022926331047936",
+        "location": "Alice KingDom",
+        "name": "戀上東雪蓮爆米138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060868663008526336/Pj-MSuBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 99,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 442
+        },
+        "username": "susan6030928724",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2074284926405337563",
+    "created_at": "2026-07-07T04:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074347576867078361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2057354806315061248",
+          "start": 0,
+          "username": "tom45456835835"
+        },
+        {
+          "end": 25,
+          "id": "1956067020228722694",
+          "start": 16,
+          "username": "qin88484"
+        },
+        {
+          "end": 40,
+          "id": "1989323215630680064",
+          "start": 26,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074347576867078361",
+    "in_reply_to_user_id": "2057354806315061248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074320731618562515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom45456835835 @qin88484 @WangQing18189 ？为什么赈灾都不被允许"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_2074318824867074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl1-yMbkAAKc6E.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1342,
+        "media_key": "3_2074320284962959360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl3TxeasAA2Cz8.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2074284926405337563",
+        "created_at": "2026-07-07T04:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074347576867078361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2057354806315061248",
+              "start": 0,
+              "username": "tom45456835835"
+            },
+            {
+              "end": 25,
+              "id": "1956067020228722694",
+              "start": 16,
+              "username": "qin88484"
+            },
+            {
+              "end": 40,
+              "id": "1989323215630680064",
+              "start": 26,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074347576867078361",
+        "in_reply_to_user_id": "2057354806315061248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074320731618562515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom45456835835 @qin88484 @WangQing18189 ？为什么赈灾都不被允许"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074318824867074048",
+            "3_2074320284962959360"
+          ]
+        },
+        "author_id": "2057354806315061248",
+        "conversation_id": "2074284926405337563",
+        "created_at": "2026-07-07T02:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074320731618562515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1956067020228722694",
+              "start": 0,
+              "username": "qin88484"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGrGuMWHHm",
+              "end": 62,
+              "expanded_url": "https://x.com/tom45456835835/status/2074320731618562515/photo/1",
+              "media_key": "3_2074318824867074048",
+              "start": 39,
+              "url": "https://t.co/FGrGuMWHHm"
+            },
+            {
+              "display_url": "pic.x.com/FGrGuMWHHm",
+              "end": 62,
+              "expanded_url": "https://x.com/tom45456835835/status/2074320731618562515/photo/1",
+              "media_key": "3_2074320284962959360",
+              "start": 39,
+              "url": "https://t.co/FGrGuMWHHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074320731618562515",
+        "in_reply_to_user_id": "1956067020228722694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074284926405337563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qin88484 皇帝：我只关心万岁，慰问灾民得了吧，未经审批不得私自赈灾 https://t.co/FGrGuMWHHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 533,
+          "like_count": 10994,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T06:56:53.000Z",
+        "description": "",
+        "id": "2057354806315061248",
+        "name": "tom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057354931670298624/OLw6knuF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 22,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 744
+        },
+        "url": "",
+        "username": "tom45456835835",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T18:55:26.000Z",
+        "description": "上帝即公义与爱 ，中国共产党是没有人民选票授权的非法政府，共产党是万恶之源，共产党是邪教组织，共产党用暴力谎言，反人类反人性的奴役中国人民。结束共产党统治，自由中国人民！",
+        "id": "1956067020228722694",
+        "name": "秦剑波（民权党筹建人）",
+        "pinned_tweet_id": "2063873562071453774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011875887491530753/ckq42a-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9480,
+          "following_count": 528,
+          "like_count": 30096,
+          "listed_count": 60,
+          "media_count": 2178,
+          "tweet_count": 5519
+        },
+        "url": "",
+        "username": "qin88484",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

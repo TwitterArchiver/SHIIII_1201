@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2048475469155364894",
+    "created_at": "2026-04-27T05:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048631857517064675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 26,
+          "id": "1845443887919493120",
+          "start": 17,
+          "username": "nailv210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048631857517064675",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048583118286979315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 @nailv210 还是带把的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2048475469155364894",
+        "created_at": "2026-04-27T05:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048631857517064675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 26,
+              "id": "1845443887919493120",
+              "start": 17,
+              "username": "nailv210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048631857517064675",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048583118286979315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 @nailv210 还是带把的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2048475469155364894",
+        "created_at": "2026-04-27T02:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048583118286979315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845443887919493120",
+              "start": 0,
+              "username": "nailv210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048583118286979315",
+        "in_reply_to_user_id": "1845443887919493120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048568849122079000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nailv210 烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 315,
+          "like_count": 3014,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 266
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2047264532599640292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 667,
+          "like_count": 18477,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 8837
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T12:38:19.000Z",
+        "description": "可以叫我茉莉奶绿/奶绿 女宝可以找我互fo@不线下 不鉴正 不参与网络纠纷 随机发表个人见解 感谢您的阅读 理性讨论 但善用拉黑 双相二型积极治疗中😭不o 已戒割",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nailv210",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nailv210",
+                "start": 0,
+                "url": "https://t.co/Wf57dpEuO6"
+              }
+            ]
+          }
+        },
+        "id": "1845443887919493120",
+        "name": "我总是喝茉莉奶绿",
+        "pinned_tweet_id": "2011272263816053145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928160098482016260/5ErPgTJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 105,
+          "like_count": 15202,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/Wf57dpEuO6",
+        "username": "nailv210",
+        "verified": false
+      }
+    ]
+  }
+}

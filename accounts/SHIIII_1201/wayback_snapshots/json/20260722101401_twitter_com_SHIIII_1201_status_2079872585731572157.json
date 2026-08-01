@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2079597317414687118",
+    "created_at": "2026-07-22T10:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079872585731572157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051305682985705472",
+          "start": 0,
+          "username": "BeibeiBean"
+        },
+        {
+          "end": 28,
+          "id": "1557846379736666113",
+          "start": 12,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079872585731572157",
+    "in_reply_to_user_id": "2051305682985705472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079833055162986994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeibeiBean @Meguminsama2009 撸开是不是就不包了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2079597317414687118",
+        "created_at": "2026-07-22T10:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079872585731572157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051305682985705472",
+              "start": 0,
+              "username": "BeibeiBean"
+            },
+            {
+              "end": 28,
+              "id": "1557846379736666113",
+              "start": 12,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079872585731572157",
+        "in_reply_to_user_id": "2051305682985705472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079833055162986994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeibeiBean @Meguminsama2009 撸开是不是就不包了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051305682985705472",
+        "conversation_id": "2079597317414687118",
+        "created_at": "2026-07-22T07:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079833055162986994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079833055162986994",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079597317414687118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 可能他们不割吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 543,
+          "like_count": 12039,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean🍔🍗🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "BeibeiBean",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠\n小号：@Meguminsuki2009\n🟨⬜🟪⬛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Meguminsuki2009"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2067940468667580679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 1963,
+          "like_count": 3434,
+          "listed_count": 2,
+          "media_count": 846,
+          "tweet_count": 8028
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

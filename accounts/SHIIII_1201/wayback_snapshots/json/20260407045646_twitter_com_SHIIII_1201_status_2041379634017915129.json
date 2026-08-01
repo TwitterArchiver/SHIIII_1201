@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2041379634017915129",
+    "created_at": "2026-04-07T04:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041379634017915129"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041379634017915129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "700mg pr足够支撑我维持正常社交了...要是天天活在药效里就好了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2041379634017915129",
+        "created_at": "2026-04-07T04:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041379634017915129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041379634017915129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "700mg pr足够支撑我维持正常社交了...要是天天活在药效里就好了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 176,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      }
+    ]
+  }
+}

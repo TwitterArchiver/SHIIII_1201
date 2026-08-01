@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049272221038977024"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2048995455510692054",
+    "created_at": "2026-04-28T23:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049272231801602119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1693590164743016448",
+          "start": 0,
+          "username": "current164063"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9N7W8vuVn0",
+          "end": 61,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2049272231801602119/photo/1",
+          "media_key": "3_2049272221038977024",
+          "start": 38,
+          "url": "https://t.co/9N7W8vuVn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049272231801602119",
+    "in_reply_to_user_id": "1693590164743016448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049264286250488162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@current164063 有微信群 但是我不在 你可以去问问这两个人… https://t.co/9N7W8vuVn0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049272221038977024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHB6Oj8aoAAhHXW.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049272221038977024"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2048995455510692054",
+        "created_at": "2026-04-28T23:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049272231801602119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1693590164743016448",
+              "start": 0,
+              "username": "current164063"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9N7W8vuVn0",
+              "end": 61,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2049272231801602119/photo/1",
+              "media_key": "3_2049272221038977024",
+              "start": 38,
+              "url": "https://t.co/9N7W8vuVn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049272231801602119",
+        "in_reply_to_user_id": "1693590164743016448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049264286250488162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@current164063 有微信群 但是我不在 你可以去问问这两个人… https://t.co/9N7W8vuVn0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693590164743016448",
+        "conversation_id": "2048995455510692054",
+        "created_at": "2026-04-28T23:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049264286250488162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049264286250488162",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048995455510692054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 有群吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗 顺女 不键政 上学中 🏳️‍🌈🏳️‍⚧️友好 互fo 发点日常 泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n互fo可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 355,
+          "like_count": 3246,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 316
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T11:45:40.000Z",
+        "description": "",
+        "id": "1693590164743016448",
+        "name": "skdndj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866911007882481668/yL1vQn4z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 97,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "current164063",
+        "verified": false
+      }
+    ]
+  }
+}

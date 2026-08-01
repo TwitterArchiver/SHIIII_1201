@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2070418102056263950",
+    "created_at": "2026-06-26T18:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070582614503964678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153970326604144640",
+          "start": 0,
+          "username": "Ruters0615"
+        },
+        {
+          "end": 26,
+          "id": "1989323215630680064",
+          "start": 12,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070582614503964678",
+    "in_reply_to_user_id": "1153970326604144640",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070418102056263950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruters0615 @WangQing18189"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2070418088680648704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuaSDhacAAsneK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2070418102056263950",
+        "created_at": "2026-06-26T18:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070582614503964678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153970326604144640",
+              "start": 0,
+              "username": "Ruters0615"
+            },
+            {
+              "end": 26,
+              "id": "1989323215630680064",
+              "start": 12,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070582614503964678",
+        "in_reply_to_user_id": "1153970326604144640",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070418102056263950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruters0615 @WangQing18189"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070418088680648704"
+          ]
+        },
+        "author_id": "1153970326604144640",
+        "conversation_id": "2070418102056263950",
+        "created_at": "2026-06-26T08:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070418102056263950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v59RtZkPRr",
+              "end": 31,
+              "expanded_url": "https://x.com/Ruters0615/status/2070418102056263950/photo/1",
+              "media_key": "3_2070418088680648704",
+              "start": 8,
+              "url": "https://t.co/v59RtZkPRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070418102056263950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 28630,
+          "like_count": 621,
+          "quote_count": 0,
+          "reply_count": 70,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "由真实事件改编 https://t.co/v59RtZkPRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 533,
+          "like_count": 10164,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T10:09:00.000Z",
+        "description": "官方X账户，国安部最高通缉，专注于乳包反共鬼畜作品，投稿请私信or邮箱投稿：Ruters0615@gmail.com\nTelegram：https://t.co/p6qoFVZxgy\nYouTube：小反旗&小池塘（被国安橄榄过三回啊三回）\nRumble / Spotify：Ruters乳透社",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruters0615",
+                "end": 91,
+                "expanded_url": "http://t.me/Ruters0615",
+                "start": 68,
+                "url": "https://t.co/p6qoFVZxgy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@RutersXiaoFan…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@RutersXiaoFanQi",
+                "start": 0,
+                "url": "https://t.co/fxNkDBFEkL"
+              }
+            ]
+          }
+        },
+        "id": "1153970326604144640",
+        "location": "IP属地：梁家河",
+        "name": "Ruters乳透社",
+        "pinned_tweet_id": "2013472422435983458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520784344280748032/gHq_Pfaw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297167,
+          "following_count": 2383,
+          "like_count": 2408,
+          "listed_count": 943,
+          "media_count": 2435,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/fxNkDBFEkL",
+        "username": "Ruters0615",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

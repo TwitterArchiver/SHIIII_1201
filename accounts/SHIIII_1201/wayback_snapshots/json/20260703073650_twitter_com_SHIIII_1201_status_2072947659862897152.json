@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2072647179408171472",
+    "created_at": "2026-07-03T07:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072947659862897152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049790092236001280",
+          "start": 0,
+          "username": "Bairizefeibai7"
+        },
+        {
+          "end": 30,
+          "id": "1989323215630680064",
+          "start": 16,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072947659862897152",
+    "in_reply_to_user_id": "2049790092236001280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072647179408171472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bairizefeibai7 @WangQing18189 有点猎奇了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2072647171753598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOFnxEXYAAteFJ.jpg",
+        "width": 1082
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072647171753549824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOFnxEWoAALOHc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2072647179408171472",
+        "created_at": "2026-07-03T07:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072947659862897152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049790092236001280",
+              "start": 0,
+              "username": "Bairizefeibai7"
+            },
+            {
+              "end": 30,
+              "id": "1989323215630680064",
+              "start": 16,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072947659862897152",
+        "in_reply_to_user_id": "2049790092236001280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072647179408171472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bairizefeibai7 @WangQing18189 有点猎奇了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072647171753598976",
+            "3_2072647171753549824"
+          ]
+        },
+        "author_id": "2049790092236001280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2072647179408171472",
+        "created_at": "2026-07-02T11:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072647179408171472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Vj7hzJcQn",
+              "end": 47,
+              "expanded_url": "https://x.com/Bairizefeibai7/status/2072647179408171472/photo/1",
+              "media_key": "3_2072647171753598976",
+              "start": 24,
+              "url": "https://t.co/3Vj7hzJcQn"
+            },
+            {
+              "display_url": "pic.x.com/3Vj7hzJcQn",
+              "end": 47,
+              "expanded_url": "https://x.com/Bairizefeibai7/status/2072647179408171472/photo/1",
+              "media_key": "3_2072647171753549824",
+              "start": 24,
+              "url": "https://t.co/3Vj7hzJcQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072647179408171472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5621,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我说习近平的脸怎么不见了，原来在菜市场的冰柜里 https://t.co/3Vj7hzJcQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 533,
+          "like_count": 10701,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 563
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T09:57:45.000Z",
+        "description": "我还是那个聪明、善良、温柔、贤惠、漂亮、H罩杯、爱做饭的包蜜\n这是本包蜜的7号机，粉蛆翻你妈墙呢",
+        "id": "2049790092236001280",
+        "location": "以色列",
+        "name": "百日则肥白7🇮🇱🇺🇸",
+        "pinned_tweet_id": "2067163564926734725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069049839145357312/AvF3gk5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 107,
+          "like_count": 3953,
+          "listed_count": 0,
+          "media_count": 580,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "Bairizefeibai7",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2056661272704496100",
+    "created_at": "2026-05-19T09:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056672526177325410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056672526177325410",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056661272704496100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 这素哪个app 我要火速下载了！ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2056661266677313536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq6hn-bMAA9zEa.jpg",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2056661272704496100",
+        "created_at": "2026-05-19T09:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056672526177325410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056672526177325410",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056661272704496100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 这素哪个app 我要火速下载了！ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056661266677313536"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056661272704496100",
+        "created_at": "2026-05-19T09:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056661272704496100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tPYACzfIL",
+              "end": 103,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2056661272704496100/photo/1",
+              "media_key": "3_2056661266677313536",
+              "start": 80,
+              "url": "https://t.co/5tPYACzfIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056661272704496100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开始使用这个了！\n如果有互关家人刷到请一定加我！！\n私信dm我一定回关！\n推特现在这样只能找别的出路了哭哭❤️‍🩹\n谢谢家人们帮忙多转以求互关宝宝可以知道…🥹 https://t.co/5tPYACzfIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 477,
+          "like_count": 6384,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 392
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1476,
+          "like_count": 96393,
+          "listed_count": 6,
+          "media_count": 746,
+          "tweet_count": 9907
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

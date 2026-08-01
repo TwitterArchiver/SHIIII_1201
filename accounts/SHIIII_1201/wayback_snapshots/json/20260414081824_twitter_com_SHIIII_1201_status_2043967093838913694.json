@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2043967093838913694",
+    "created_at": "2026-04-14T08:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043967093838913694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2015175654271332352",
+          "start": 3,
+          "username": "sxc_promax"
+        },
+        {
+          "end": 25,
+          "id": "2012631283898187776",
+          "start": 16,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043967093838913694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043858758775050397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sxc_promax: @youy1qwq 世界还要被这种萌物统治多久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2043967093838913694",
+        "created_at": "2026-04-14T08:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043967093838913694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2015175654271332352",
+              "start": 3,
+              "username": "sxc_promax"
+            },
+            {
+              "end": 25,
+              "id": "2012631283898187776",
+              "start": 16,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043967093838913694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043858758775050397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sxc_promax: @youy1qwq 世界还要被这种萌物统治多久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015175654271332352",
+        "conversation_id": "2043766171833376948",
+        "created_at": "2026-04-14T01:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T02:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043858758775050397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043858758775050397",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23876,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043766171833376948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 世界还要被这种萌物统治多久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 241,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 144
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T21:31:39.000Z",
+        "description": "什么是政治立场，我作为一个人只有是非观立场\n如果你问我关于立场以外的事，我的回答是STFU",
+        "id": "2015175654271332352",
+        "location": "Twitter",
+        "name": "Charcoal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043618627866529792/UuUPeQ5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "sxc_promax",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10293,
+          "following_count": 1567,
+          "like_count": 3701,
+          "listed_count": 15,
+          "media_count": 1355,
+          "tweet_count": 1830
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

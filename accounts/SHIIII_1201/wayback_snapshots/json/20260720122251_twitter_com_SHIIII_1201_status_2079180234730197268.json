@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2079180234730197268",
+    "created_at": "2026-07-20T12:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079180234730197268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032059814348754944",
+          "start": 3,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079180234730197268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079130493535318509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KrvyScorpii: 我是Mikan，药百与pdw的编辑，我发布了Krvy的讣告，作为krvy生前好友，对于kr的去世我深表遗憾，在他最难受的时候我不在他身边 没有及时帮助他，很抱歉我…我很后悔 对不起各位我现在的语言组织能力很差 我太难过了 警方两个小时就把他的尸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2079180234730197268",
+        "created_at": "2026-07-20T12:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079180234730197268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032059814348754944",
+              "start": 3,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079180234730197268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079130493535318509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KrvyScorpii: 我是Mikan，药百与pdw的编辑，我发布了Krvy的讣告，作为krvy生前好友，对于kr的去世我深表遗憾，在他最难受的时候我不在他身边 没有及时帮助他，很抱歉我…我很后悔 对不起各位我现在的语言组织能力很差 我太难过了 警方两个小时就把他的尸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032059814348754944",
+        "conversation_id": "2079130493535318509",
+        "created_at": "2026-07-20T09:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079130493535318509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Psydrugswiki/s…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/Psydrugswiki/status/2079115693015044452",
+              "start": 152,
+              "url": "https://t.co/Yr60pvE18T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079130493535318509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2261,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079115693015044452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是Mikan，药百与pdw的编辑，我发布了Krvy的讣告，作为krvy生前好友，对于kr的去世我深表遗憾，在他最难受的时候我不在他身边 没有及时帮助他，很抱歉我…我很后悔 对不起各位我现在的语言组织能力很差 我太难过了 警方两个小时就把他的尸体带走了 定性自杀就完事了…我赶到现场只有一摊干掉的血迹了 https://t.co/Yr60pvE18T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 543,
+          "like_count": 12008,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，前pdw wiki管理员，退役oder，某传奇贝斯手，希望能成为人类",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 81,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

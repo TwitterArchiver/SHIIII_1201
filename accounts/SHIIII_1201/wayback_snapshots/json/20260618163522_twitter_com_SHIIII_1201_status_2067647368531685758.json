@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2067397379192701109",
+    "created_at": "2026-06-18T16:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067647368531685758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "796179061",
+          "start": 0,
+          "username": "jz86574932"
+        },
+        {
+          "end": 26,
+          "id": "1989323215630680064",
+          "start": 12,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067647368531685758",
+    "in_reply_to_user_id": "796179061",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067397379192701109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jz86574932 @WangQing18189 正骨TV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18622,
+        "height": 270,
+        "media_key": "13_2066174317461671936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066174317461671936/img/_oMdCoS2GkXhIXoo.jpg",
+        "public_metrics": {
+          "view_count": 5195
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066174317461671936/vid/avc1/490x270/fA3dpEn7-w0YHbp6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066174317461671936/pl/4qi4zwG-r1U-J0sK.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2067397379192701109",
+        "created_at": "2026-06-18T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067647368531685758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "796179061",
+              "start": 0,
+              "username": "jz86574932"
+            },
+            {
+              "end": 26,
+              "id": "1989323215630680064",
+              "start": 12,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067647368531685758",
+        "in_reply_to_user_id": "796179061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067397379192701109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jz86574932 @WangQing18189 正骨TV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066174317461671936"
+          ]
+        },
+        "author_id": "796179061",
+        "conversation_id": "2067397379192701109",
+        "created_at": "2026-06-18T00:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067397379192701109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KaBDg2qT0T",
+              "end": 51,
+              "expanded_url": "https://x.com/jz86574932/status/2067397379192701109/video/1",
+              "media_key": "13_2066174317461671936",
+              "start": 28,
+              "url": "https://t.co/KaBDg2qT0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067397379192701109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9866,
+          "like_count": 103,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我的天，香港黑警对一个12岁的单薄小女孩下手如此之狠！ https://t.co/KaBDg2qT0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 530,
+          "like_count": 9604,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-01T14:19:01.000Z",
+        "description": "真理可能在少数人一边。\n意志不纯正，则学识足以为害。",
+        "id": "796179061",
+        "name": "静之竹",
+        "pinned_tweet_id": "2065958145625641065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685403678654533633/WaG2nqAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5895,
+          "following_count": 569,
+          "like_count": 3462,
+          "listed_count": 17,
+          "media_count": 3413,
+          "tweet_count": 4990
+        },
+        "url": "",
+        "username": "jz86574932",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

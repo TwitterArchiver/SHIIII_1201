@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047646880944005120"
+      ],
+      "media_source_tweet_id": [
+        "2047646894432919817"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2047891772869885995",
+    "created_at": "2026-04-25T04:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047891772869885995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1579432746778517504",
+          "start": 3,
+          "username": "niihai39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FThPgcu919",
+          "end": 45,
+          "expanded_url": "https://x.com/niihai39/status/2047646894432919817/photo/1",
+          "media_key": "3_2047646880944005120",
+          "start": 22,
+          "url": "https://t.co/FThPgcu919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047891772869885995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 412
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047646894432919817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niihai39: ジェルばんは！ https://t.co/FThPgcu919"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047646880944005120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqz_UQaoAAXpST.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047646880944005120"
+          ],
+          "media_source_tweet_id": [
+            "2047646894432919817"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2047891772869885995",
+        "created_at": "2026-04-25T04:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047891772869885995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1579432746778517504",
+              "start": 3,
+              "username": "niihai39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FThPgcu919",
+              "end": 45,
+              "expanded_url": "https://x.com/niihai39/status/2047646894432919817/photo/1",
+              "media_key": "3_2047646880944005120",
+              "start": 22,
+              "url": "https://t.co/FThPgcu919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047891772869885995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047646894432919817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niihai39: ジェルばんは！ https://t.co/FThPgcu919"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047646880944005120"
+          ]
+        },
+        "author_id": "1579432746778517504",
+        "conversation_id": "2047646894432919817",
+        "created_at": "2026-04-24T12:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047646894432919817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FThPgcu919",
+              "end": 31,
+              "expanded_url": "https://x.com/niihai39/status/2047646894432919817/photo/1",
+              "media_key": "3_2047646880944005120",
+              "start": 8,
+              "url": "https://t.co/FThPgcu919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047646894432919817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 56617,
+          "like_count": 6265,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "ジェルばんは！ https://t.co/FThPgcu919"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "pinned_tweet_id": "2047248330636611687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 302,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 248
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T11:24:57.000Z",
+        "description": "架空の人物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/niihai39",
+                "end": 23,
+                "expanded_url": "https://lit.link/niihai39",
+                "start": 0,
+                "url": "https://t.co/72HhM0nf5u"
+              }
+            ]
+          }
+        },
+        "id": "1579432746778517504",
+        "name": "にーはい",
+        "pinned_tweet_id": "1983846503715324292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985903505006301184/P6vQutg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24145,
+          "following_count": 181,
+          "like_count": 6555,
+          "listed_count": 82,
+          "media_count": 235,
+          "tweet_count": 5042
+        },
+        "url": "https://t.co/72HhM0nf5u",
+        "username": "niihai39",
+        "verified": true
+      }
+    ]
+  }
+}

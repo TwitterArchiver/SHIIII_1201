@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2068682864003285206",
+    "created_at": "2026-06-22T04:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068918768139661576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        },
+        {
+          "end": 26,
+          "id": "1989323215630680064",
+          "start": 12,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068918768139661576",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068682864003285206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya @WangQing18189"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2068682854566109184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVwGItaoAA-l1h.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2068682864003285206",
+        "created_at": "2026-06-22T04:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068918768139661576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            },
+            {
+              "end": 26,
+              "id": "1989323215630680064",
+              "start": 12,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068918768139661576",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068682864003285206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya @WangQing18189"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068682854566109184"
+          ]
+        },
+        "author_id": "1685499489493323776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068682864003285206",
+        "created_at": "2026-06-21T13:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068682864003285206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5jB1f4ZUBr",
+              "end": 23,
+              "expanded_url": "https://x.com/GuiMengNya/status/2068682864003285206/photo/1",
+              "media_key": "3_2068682854566109184",
+              "start": 0,
+              "url": "https://t.co/5jB1f4ZUBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068682864003285206",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1634,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5jB1f4ZUBr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 533,
+          "like_count": 9852,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|卡粉|啥也不会，是个废物/常年江浙沪皖随机tp/ 保佑永远 18 岁/日常号@Revsoul_/ 见证人类多样性(但不键政)/愿你出游半生，归来仍是少年/幸福降临我身边/x x xxx/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Revsoul_"
+              }
+            ]
+          }
+        },
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "2013963163507843479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10408,
+          "following_count": 690,
+          "like_count": 11499,
+          "listed_count": 30,
+          "media_count": 2331,
+          "tweet_count": 4712
+        },
+        "url": "",
+        "username": "GuiMengNya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

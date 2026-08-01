@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2069577494257344860",
+    "created_at": "2026-06-24T19:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T20:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069863449300206063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 29,
+          "id": "1717926399334379520",
+          "start": 15,
+          "username": "dzvoz58421711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069863449300206063",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069802839753547820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @dzvoz58421711 中国🇨🇳共产党的初心和使命是为中国人民谋幸福为中华民族谋复兴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2069577494257344860",
+        "created_at": "2026-06-24T19:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069863449300206063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 29,
+              "id": "1717926399334379520",
+              "start": 15,
+              "username": "dzvoz58421711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069863449300206063",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069802839753547820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @dzvoz58421711 中国🇨🇳共产党的初心和使命是为中国人民谋幸福为中华民族谋复兴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2069577494257344860",
+        "created_at": "2026-06-24T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069802839753547820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717926399334379520",
+              "start": 0,
+              "username": "dzvoz58421711"
+            },
+            {
+              "end": 27,
+              "id": "1910709382603825154",
+              "start": 15,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069802839753547820",
+        "in_reply_to_user_id": "1717926399334379520",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069577494257344860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzvoz58421711 @SHIIII_1201"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 535,
+          "like_count": 10029,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T15:29:23.000Z",
+        "description": "与人为善，闻过则喜。",
+        "id": "1717926399334379520",
+        "name": "善喜",
+        "pinned_tweet_id": "2061983958837977531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985818947598319616/uYyVlSV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4990,
+          "following_count": 175,
+          "like_count": 676,
+          "listed_count": 38,
+          "media_count": 442,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "dzvoz58421711",
+        "verified": false
+      }
+    ]
+  }
+}

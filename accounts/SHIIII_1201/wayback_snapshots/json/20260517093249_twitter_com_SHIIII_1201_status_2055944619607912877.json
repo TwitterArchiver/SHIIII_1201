@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2055592794060968430",
+    "created_at": "2026-05-17T09:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055944619607912877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054877291633909760",
+          "start": 0,
+          "username": "TransYuwen"
+        },
+        {
+          "end": 23,
+          "id": "1912667915251511296",
+          "start": 12,
+          "username": "Ciky_Shore"
+        },
+        {
+          "end": 35,
+          "id": "2051305682985705472",
+          "start": 24,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055944619607912877",
+    "in_reply_to_user_id": "2054877291633909760",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055592794060968430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TransYuwen @Ciky_Shore @BeibeiBean"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2055592794060968430",
+        "created_at": "2026-05-17T09:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055944619607912877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054877291633909760",
+              "start": 0,
+              "username": "TransYuwen"
+            },
+            {
+              "end": 23,
+              "id": "1912667915251511296",
+              "start": 12,
+              "username": "Ciky_Shore"
+            },
+            {
+              "end": 35,
+              "id": "2051305682985705472",
+              "start": 24,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055944619607912877",
+        "in_reply_to_user_id": "2054877291633909760",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055592794060968430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TransYuwen @Ciky_Shore @BeibeiBean"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054877291633909760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2055592794060968430",
+        "created_at": "2026-05-16T10:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055592794060968430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055592794060968430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29797,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "习近平屁眼挺嫩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 471,
+          "like_count": 6078,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 376
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍|",
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2055211584138736084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 18,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 184
+        },
+        "username": "TransYuwen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-17T00:42:34.000Z",
+        "description": "Ciky/sɪ'kɪ/辞魁月and月见初霜 也可以叫我月霜！/🍥2026.4.16/文科生 好吧只偏爱历史/这里只是一个垃圾桶喵/究竟什么时候才能死掉呢/出生日2009.2.6/CODM/逆水寒/lolm/提前致歉因我说的话而伤害到的人喵喵喵/提问箱看下方链接/我在除夕夜逮狗 叫我野狗猎手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cikyitz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cikyitz",
+                "start": 0,
+                "url": "https://t.co/4gXj9Q6KZO"
+              }
+            ]
+          }
+        },
+        "id": "1912667915251511296",
+        "location": "湮灭潮",
+        "name": "辞魁月",
+        "pinned_tweet_id": "2048446987171962897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912670682519068672/fM1gWLPb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 369,
+          "like_count": 2172,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1041
+        },
+        "url": "https://t.co/4gXj9Q6KZO",
+        "username": "Ciky_Shore",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean（求互动）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 97
+        },
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

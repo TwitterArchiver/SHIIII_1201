@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2067559967100395642",
+    "created_at": "2026-06-18T13:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067603375697678452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 31,
+          "id": "1989323215630680064",
+          "start": 17,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067603375697678452",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067559967100395642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 @WangQing18189"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2067559929599102976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyzTOWEAAwKKR.jpg",
+        "width": 1706
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067559927602712576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyzLyXkAA1vYY.jpg",
+        "width": 921
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2067559929615994880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFyzTSX0AAjztk.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2067559967100395642",
+        "created_at": "2026-06-18T13:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067603375697678452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 31,
+              "id": "1989323215630680064",
+              "start": 17,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067603375697678452",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067559967100395642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @WangQing18189"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067559929599102976",
+            "3_2067559927602712576",
+            "3_2067559929615994880"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2067559967100395642",
+        "created_at": "2026-06-18T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067559967100395642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一份伪造签名的托管协议，三名突然闯入的教官，将23岁双胞胎兄弟小豪和小洲拖入噩梦。",
+              "display_url": "m.mp.oeeee.com/a/BAAFRD000020…",
+              "end": 160,
+              "expanded_url": "https://m.mp.oeeee.com/a/BAAFRD0000202606181611319.html",
+              "start": 137,
+              "status": 200,
+              "title": "23岁双胞胎兄弟被抓进戒网瘾机构：非法拘禁罪为何启动难？",
+              "unwound_url": "https://m.mp.oeeee.com/a/BAAFRD0000202606181611319.html",
+              "url": "https://t.co/Lboz8Pyy0D"
+            },
+            {
+              "display_url": "pic.x.com/xEXTTgbSV6",
+              "end": 184,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067559967100395642/photo/1",
+              "media_key": "3_2067559929599102976",
+              "start": 161,
+              "url": "https://t.co/xEXTTgbSV6"
+            },
+            {
+              "display_url": "pic.x.com/xEXTTgbSV6",
+              "end": 184,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067559967100395642/photo/1",
+              "media_key": "3_2067559927602712576",
+              "start": 161,
+              "url": "https://t.co/xEXTTgbSV6"
+            },
+            {
+              "display_url": "pic.x.com/xEXTTgbSV6",
+              "end": 184,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2067559967100395642/photo/1",
+              "media_key": "3_2067559929615994880",
+              "start": 161,
+              "url": "https://t.co/xEXTTgbSV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067559967100395642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1500,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "2026/5/22/\n我们参与了一起案件\n本次违法机构未“重庆市环帝青少年教育实践基地”\n该基地与我们曾参与报道山东环帝实为一家\n本次曝光中有两位年满二十三岁的双胞胎均被假装警察带走\n打成残疾\n甚至屡次发生学员曾出逃被警察抓回虐待的事件\n该案件已被南方都市报报道\n附文链接:https://t.co/Lboz8Pyy0D https://t.co/xEXTTgbSV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 531,
+          "like_count": 9594,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 3170,
+          "like_count": 3256,
+          "listed_count": 18,
+          "media_count": 458,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

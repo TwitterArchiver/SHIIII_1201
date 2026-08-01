@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2068004197602345313",
+    "created_at": "2026-06-20T10:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068282740936675787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854081834440863744",
+          "start": 0,
+          "username": "lji1044434"
+        },
+        {
+          "end": 21,
+          "id": "1596372718605123585",
+          "start": 12,
+          "username": "MoonSSxu"
+        },
+        {
+          "end": 36,
+          "id": "1989323215630680064",
+          "start": 22,
+          "username": "WangQing18189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068282740936675787",
+    "in_reply_to_user_id": "1854081834440863744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068173075271852189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lji1044434 @MoonSSxu @WangQing18189 早知道那天买彩票了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2068004197602345313",
+        "created_at": "2026-06-20T10:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068282740936675787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854081834440863744",
+              "start": 0,
+              "username": "lji1044434"
+            },
+            {
+              "end": 21,
+              "id": "1596372718605123585",
+              "start": 12,
+              "username": "MoonSSxu"
+            },
+            {
+              "end": 36,
+              "id": "1989323215630680064",
+              "start": 22,
+              "username": "WangQing18189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068282740936675787",
+        "in_reply_to_user_id": "1854081834440863744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068173075271852189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lji1044434 @MoonSSxu @WangQing18189 早知道那天买彩票了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854081834440863744",
+        "conversation_id": "2068004197602345313",
+        "created_at": "2026-06-20T03:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068173075271852189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1596372718605123585",
+              "start": 0,
+              "username": "MoonSSxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068173075271852189",
+        "in_reply_to_user_id": "1596372718605123585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1105,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068004197602345313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoonSSxu 比中彩票概率小"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 533,
+          "like_count": 9688,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T08:42:25.000Z",
+        "description": "04｜♀｜学生\n\n当日记发....很好说话！",
+        "id": "1854081834440863744",
+        "name": "热乎乎烙饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067595495292436480/_buY5jdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 28,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "lji1044434",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T05:18:23.000Z",
+        "description": "",
+        "id": "1596372718605123585",
+        "name": "MoonSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982118851501232128/Te57YNzw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 16,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "MoonSSxu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      }
+    ]
+  }
+}

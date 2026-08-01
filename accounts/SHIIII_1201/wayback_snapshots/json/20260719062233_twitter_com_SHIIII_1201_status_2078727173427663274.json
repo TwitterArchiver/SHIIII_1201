@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2078408235875545503",
+    "created_at": "2026-07-19T06:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078727173427663274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058789027973898240",
+          "start": 0,
+          "username": "manzhanshaobei"
+        },
+        {
+          "end": 30,
+          "id": "3161548729",
+          "start": 16,
+          "username": "xiaoyuannnb88"
+        },
+        {
+          "end": 42,
+          "id": "2051305682985705472",
+          "start": 31,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078727173427663274",
+    "in_reply_to_user_id": "2058789027973898240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078408235875545503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manzhanshaobei @xiaoyuannnb88 @BeibeiBean 😲"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 111432,
+        "height": 1920,
+        "media_key": "13_2078407517508636672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078407517508636672/img/-5iSKUJpBLMIgStR.jpg",
+        "public_metrics": {
+          "view_count": 136123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078407517508636672/vid/avc1/320x568/50Go2WGf2Fe9R7WG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078407517508636672/vid/avc1/480x852/aHqdxomgzDG_FdNB.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078407517508636672/vid/avc1/720x1280/ufVu3MHroWgchCq2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078407517508636672/pl/K9IN5_hDqW5LrRFU.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2078408235875545503",
+        "created_at": "2026-07-19T06:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078727173427663274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058789027973898240",
+              "start": 0,
+              "username": "manzhanshaobei"
+            },
+            {
+              "end": 30,
+              "id": "3161548729",
+              "start": 16,
+              "username": "xiaoyuannnb88"
+            },
+            {
+              "end": 42,
+              "id": "2051305682985705472",
+              "start": 31,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078727173427663274",
+        "in_reply_to_user_id": "2058789027973898240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078408235875545503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manzhanshaobei @xiaoyuannnb88 @BeibeiBean 😲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078407517508636672"
+          ]
+        },
+        "author_id": "2058789027973898240",
+        "conversation_id": "2078408235875545503",
+        "created_at": "2026-07-18T09:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078408235875545503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "AI短剧"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "热播短剧"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "短剧"
+            },
+            {
+              "end": 150,
+              "start": 144,
+              "tag": "520短剧"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "shorttv.online/s/mD7EVh3A",
+              "end": 126,
+              "expanded_url": "https://shorttv.online/s/mD7EVh3A",
+              "images": [
+                {
+                  "height": 5120,
+                  "url": "https://pbs.twimg.com/news_img/2078408279907356672/E_1JK-gq?format=jpg&name=orig",
+                  "width": 2880
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078408279907356672/E_1JK-gq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "东北雨姐",
+              "unwound_url": "https://shorttv.online/webpc/d/cmrq3zhug03kq07o31j19u1wk?utm_source=aff-mD7EVh3A-telegram&utm_campaign=%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90&utm_medium=SOCIAL&nq_ch=mD7EVh3A",
+              "url": "https://t.co/ZygCgGjp5L"
+            },
+            {
+              "display_url": "pic.x.com/jYwJuF0NbX",
+              "end": 174,
+              "expanded_url": "https://x.com/manzhanshaobei/status/2078408235875545503/video/1",
+              "media_key": "13_2078407517508636672",
+              "start": 151,
+              "url": "https://t.co/jYwJuF0NbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078408235875545503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 949,
+          "impression_count": 166697,
+          "like_count": 3087,
+          "quote_count": 18,
+          "reply_count": 165,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "《东北雨姐》第一集（带货芭比裤）\n\n东北雨姐抖音被封后，杀到蜜月传媒开直播！今天带货芭比裤，号称B痒了随时能操一顿。结果雨姐试穿时B骚味有点太大了，那味儿直接冲鼻，骚得全场都绷不住了！ 🤣\n\n未删减完整版👉https://t.co/ZygCgGjp5L\n\n#AI短剧 #热播短剧 #短剧 #520短剧 https://t.co/jYwJuF0NbX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 543,
+          "like_count": 11880,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T05:57:31.000Z",
+        "description": "🚀 每天更新超爽短剧 | 古装甜宠/霸总/穿越/复仇\n🔥 热播短剧抢先看 • 完结剧资源\n#AI短剧 #热播短剧 #影视 #短剧",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "AI短剧"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "热播短剧"
+              },
+              {
+                "end": 60,
+                "start": 57,
+                "tag": "影视"
+              },
+              {
+                "end": 64,
+                "start": 61,
+                "tag": "短剧"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/galgame01",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/galgame01",
+                "start": 0,
+                "url": "https://t.co/Dv2iMijW5T"
+              }
+            ]
+          }
+        },
+        "id": "2058789027973898240",
+        "name": "热播短剧 🔥 每日更新",
+        "pinned_tweet_id": "2077258000910451058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071587901784363008/O-jowg-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164681,
+          "following_count": 41,
+          "like_count": 71,
+          "listed_count": 207,
+          "media_count": 61,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/Dv2iMijW5T",
+        "username": "manzhanshaobei",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-17T19:06:56.000Z",
+        "description": "优质原创中心✨创不易，请多关照！经过各个大V认证\n大号被封 小号重启回归 感谢您的关注和支持🤞",
+        "id": "3161548729",
+        "name": "小远vov",
+        "pinned_tweet_id": "2071999321734795437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058650389139075072/oWpYfzwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29762,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 34,
+          "media_count": 19,
+          "tweet_count": 2118
+        },
+        "url": "",
+        "username": "xiaoyuannnb88",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean（求互动）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

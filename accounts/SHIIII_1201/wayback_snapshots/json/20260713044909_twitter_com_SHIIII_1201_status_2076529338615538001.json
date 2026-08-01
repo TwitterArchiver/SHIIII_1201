@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2064677785906606575",
+    "created_at": "2026-07-13T04:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076529338615538001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "954441841457467392",
+          "start": 0,
+          "username": "Qamaral28861846"
+        },
+        {
+          "end": 28,
+          "id": "2051305682985705472",
+          "start": 17,
+          "username": "BeibeiBean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076529338615538001",
+    "in_reply_to_user_id": "954441841457467392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064677785906606575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qamaral28861846 @BeibeiBean ？wtf还有这种东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 874154,
+        "height": 720,
+        "media_key": "13_2064516172574498816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064516172574498816/img/GJ3_krPqG7TEPXY-.jpg",
+        "public_metrics": {
+          "view_count": 2080303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064516172574498816/vid/avc1/480x270/N2mVdiHrx6uwLZC-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064516172574498816/vid/avc1/640x360/YANRsJqSIZ9H7sGr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064516172574498816/vid/avc1/1280x720/qYShyA-41XmBRvs-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064516172574498816/pl/d24-KLewRjpJRQYk.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2064677785906606575",
+        "created_at": "2026-07-13T04:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076529338615538001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "954441841457467392",
+              "start": 0,
+              "username": "Qamaral28861846"
+            },
+            {
+              "end": 28,
+              "id": "2051305682985705472",
+              "start": 17,
+              "username": "BeibeiBean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076529338615538001",
+        "in_reply_to_user_id": "954441841457467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064677785906606575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qamaral28861846 @BeibeiBean ？wtf还有这种东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2064516172574498816"
+          ]
+        },
+        "author_id": "954441841457467392",
+        "conversation_id": "2064677785906606575",
+        "created_at": "2026-06-10T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064677785906606575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3vputd2vp",
+              "end": 66,
+              "expanded_url": "https://x.com/Qamaral28861846/status/2064677785906606575/video/1",
+              "media_key": "13_2064516172574498816",
+              "start": 43,
+              "url": "https://t.co/J3vputd2vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064677785906606575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42114,
+          "impression_count": 1689176,
+          "like_count": 74762,
+          "quote_count": 20,
+          "reply_count": 123,
+          "retweet_count": 4259
+        },
+        "reply_settings": "everyone",
+        "text": "西游记里番版本，猴子是雌的，如来的五指山封印封住的是猴子的小穴，唐僧是受，被猴子榨精 https://t.co/J3vputd2vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 535,
+          "like_count": 11430,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-19T19:54:02.000Z",
+        "description": "喜欢发各种精彩动漫 喜欢的点个关注➕💗",
+        "id": "954441841457467392",
+        "name": "精品动漫大全",
+        "pinned_tweet_id": "2073036282037670013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063793012711563264/NjzD4KlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69418,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 86,
+          "media_count": 14,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "Qamaral28861846",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T14:20:15.000Z",
+        "description": "碑碑碑碑豆",
+        "id": "2051305682985705472",
+        "name": "Beibei Bean（求互动）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051328035677421568/lawLESBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "BeibeiBean",
+        "verified": false
+      }
+    ]
+  }
+}

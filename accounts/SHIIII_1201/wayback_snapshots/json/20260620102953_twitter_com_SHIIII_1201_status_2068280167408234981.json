@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2068167957004562610",
+    "created_at": "2026-06-20T10:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068280167408234981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 29,
+          "id": "1717627584530231296",
+          "start": 15,
+          "username": "iestt59627255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068280167408234981",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068248016176435280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @iestt59627255 家里的耀祖不受任何束缚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2068167957004562610",
+        "created_at": "2026-06-20T10:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068280167408234981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 29,
+              "id": "1717627584530231296",
+              "start": 15,
+              "username": "iestt59627255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068280167408234981",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068248016176435280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @iestt59627255 家里的耀祖不受任何束缚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989323215630680064",
+        "conversation_id": "2068167957004562610",
+        "created_at": "2026-06-20T08:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068248016176435280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717627584530231296",
+              "start": 0,
+              "username": "iestt59627255"
+            },
+            {
+              "end": 27,
+              "id": "1910709382603825154",
+              "start": 15,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068248016176435280",
+        "in_reply_to_user_id": "1717627584530231296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068167957004562610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iestt59627255 @SHIIII_1201 💢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 533,
+          "like_count": 9686,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "location": "中國內蒙古自治區",
+        "name": "王卿宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T19:41:59.000Z",
+        "description": "宠辱不惊，看庭前花开花落；\n去留无意，望天上云卷云舒。",
+        "id": "1717627584530231296",
+        "name": "雪儿",
+        "pinned_tweet_id": "2063495669541970013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036493174072582144/yiZ6rXwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 982,
+          "like_count": 2119,
+          "listed_count": 7,
+          "media_count": 875,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "iestt59627255",
+        "verified": false
+      }
+    ]
+  }
+}

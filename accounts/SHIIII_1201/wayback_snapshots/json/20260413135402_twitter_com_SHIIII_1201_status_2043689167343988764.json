@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043689157030236160"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2043689167343988764",
+    "created_at": "2026-04-13T13:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043689167343988764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pIk5bZoih6",
+          "end": 30,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2043689167343988764/photo/1",
+          "media_key": "3_2043689157030236160",
+          "start": 7,
+          "url": "https://t.co/pIk5bZoih6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043689167343988764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "保持割手手🫡 https://t.co/pIk5bZoih6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043689157030236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFykddwa0AAcrbQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043689157030236160"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2043689167343988764",
+        "created_at": "2026-04-13T13:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043689167343988764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pIk5bZoih6",
+              "end": 30,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2043689167343988764/photo/1",
+              "media_key": "3_2043689157030236160",
+              "start": 7,
+              "url": "https://t.co/pIk5bZoih6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043689167343988764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保持割手手🫡 https://t.co/pIk5bZoih6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 228,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 132
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      }
+    ]
+  }
+}

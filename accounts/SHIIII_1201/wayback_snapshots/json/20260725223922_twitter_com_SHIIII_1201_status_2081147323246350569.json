@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2080545294035685735",
+    "created_at": "2026-07-25T22:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T23:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081147323246350569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1989323215630680064",
+          "start": 0,
+          "username": "WangQing18189"
+        },
+        {
+          "end": 27,
+          "id": "2014979760565456896",
+          "start": 15,
+          "username": "noahduck283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081147323246350569",
+    "in_reply_to_user_id": "1989323215630680064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081045586196013503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WangQing18189 @noahduck283 姐妹懂我吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "16_2081045577622757377",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HOFb7U-aIAE4ylb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HOFb7U-aIAE4ylb.mp4"
+          }
+        ],
+        "width": 192
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2080545294035685735",
+        "created_at": "2026-07-25T22:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081147323246350569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1989323215630680064",
+              "start": 0,
+              "username": "WangQing18189"
+            },
+            {
+              "end": 27,
+              "id": "2014979760565456896",
+              "start": 15,
+              "username": "noahduck283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081147323246350569",
+        "in_reply_to_user_id": "1989323215630680064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081045586196013503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WangQing18189 @noahduck283 姐妹懂我吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2081045577622757377"
+          ]
+        },
+        "author_id": "1989323215630680064",
+        "conversation_id": "2080545294035685735",
+        "created_at": "2026-07-25T15:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081045586196013503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 25,
+              "id": "2014979760565456896",
+              "start": 13,
+              "username": "noahduck283"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bKweYHJFlG",
+              "end": 56,
+              "expanded_url": "https://x.com/WangQing18189/status/2081045586196013503/photo/1",
+              "media_key": "16_2081045577622757377",
+              "start": 33,
+              "url": "https://t.co/bKweYHJFlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081045586196013503",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080873674140500222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @noahduck283 是的，就很… https://t.co/bKweYHJFlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:)\n顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2071829029414654384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 543,
+          "like_count": 12109,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T13:23:38.000Z",
+        "description": "",
+        "id": "1989323215630680064",
+        "name": "王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043514674101297152/A_cUFzHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "WangQing18189",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T08:33:13.000Z",
+        "description": "🔥 AI最孝顺的儿子×龟男最严厉的父亲\n💗短推传递快乐，长文分享价值\n🏝️带你在信息的海洋找到陆地～\n🚢常互动都会回/X陪跑社群⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDb…",
+                "end": 23,
+                "expanded_url": "https://lcn72qpspzgt.feishu.cn/wiki/LAdqwYYDbi9s8NkkyJccbZXynyf?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/6N1e2zavG0"
+              }
+            ]
+          }
+        },
+        "id": "2014979760565456896",
+        "name": "诺鸭船长3",
+        "pinned_tweet_id": "2069570117445571061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035372542819696640/v_5bHa9Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18056,
+          "following_count": 990,
+          "like_count": 11182,
+          "listed_count": 83,
+          "media_count": 1552,
+          "tweet_count": 15882
+        },
+        "url": "https://t.co/6N1e2zavG0",
+        "username": "noahduck283",
+        "verified": true
+      }
+    ]
+  }
+}

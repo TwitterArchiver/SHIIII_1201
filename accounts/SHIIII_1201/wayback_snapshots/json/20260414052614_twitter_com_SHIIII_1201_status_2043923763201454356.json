@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2043673168163058128",
+    "created_at": "2026-04-14T05:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043923763201454356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021200224388341760",
+          "start": 0,
+          "username": "pet843801211906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043923763201454356",
+    "in_reply_to_user_id": "2021200224388341760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043673168163058128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pet843801211906 看成把狗的捏捏乐给撕了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2043673168163058128",
+        "created_at": "2026-04-14T05:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043923763201454356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021200224388341760",
+              "start": 0,
+              "username": "pet843801211906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043923763201454356",
+        "in_reply_to_user_id": "2021200224388341760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043673168163058128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pet843801211906 看成把狗的捏捏乐给撕了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2021200224388341760",
+        "conversation_id": "2043673168163058128",
+        "created_at": "2026-04-13T12:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043673168163058128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043673168163058128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的。我昨天24磕愈美半夜无意识发狗疯把一个捏捏乐给撕了。真的很诡异啊我是用牙咬的咬完反应过来我在干什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 232,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 138
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-10T12:31:17.000Z",
+        "description": "我叫小风｜割/磕/10｜退学/istp｜我非常温良可以闲聊｜喜欢画画｜查成分互fo。！直fo是喜欢你｜聊骚给我打钱看心情回｜漏掉回fo私我呀呀🥺",
+        "id": "2021200224388341760",
+        "location": "氢溴酸右美沙芬",
+        "name": "小小小小风",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041751501471961088/9Z6qcf2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 140,
+          "like_count": 2383,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1038
+        },
+        "username": "pet843801211906",
+        "verified": false
+      }
+    ]
+  }
+}

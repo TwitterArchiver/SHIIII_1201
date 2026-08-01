@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2041580195434656238",
+    "created_at": "2026-04-08T05:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041757497992880422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        },
+        {
+          "end": 25,
+          "id": "2031715041196875776",
+          "start": 13,
+          "username": "wu_si114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041757497992880422",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041757431819337795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 @wu_si114514 我错了w😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2041580195434656238",
+        "created_at": "2026-04-08T05:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041757497992880422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            },
+            {
+              "end": 25,
+              "id": "2031715041196875776",
+              "start": 13,
+              "username": "wu_si114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041757497992880422",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041757431819337795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 @wu_si114514 我错了w😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2041580195434656238",
+        "created_at": "2026-04-08T05:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041757431819337795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 25,
+              "id": "2031715041196875776",
+              "start": 13,
+              "username": "wu_si114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041757431819337795",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041757184464449803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @wu_si114514 认真审题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041164423281422336/lAdpuAOC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 183,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 83
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "被当成人机了随缘回fo【寻回推u】🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀赛博监护人@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 446,
+          "like_count": 2778,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 1746
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "白兔就是垃圾臭傻逼\nsb msk wcnm \n@rinii165892 的最强嘴替 缓慢回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "msk坟头",
+        "name": "2.雨木木（完全仇恨邪恶msk）",
+        "pinned_tweet_id": "2040146886708109777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 165,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 407
+        },
+        "username": "wu_si114514",
+        "verified": false
+      }
+    ]
+  }
+}

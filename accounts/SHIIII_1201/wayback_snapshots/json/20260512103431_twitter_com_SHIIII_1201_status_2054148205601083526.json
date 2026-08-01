@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054138289226137600"
+      ],
+      "media_source_tweet_id": [
+        "2054138305986572670"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2054148205601083526",
+    "created_at": "2026-05-12T10:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054148205601083526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1283818798177370113",
+          "start": 3,
+          "username": "GuangXi06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbFHWYkkMr",
+          "end": 99,
+          "expanded_url": "https://x.com/GuangXi06/status/2054138305986572670/video/1",
+          "media_key": "13_2054138289226137600",
+          "start": 76,
+          "url": "https://t.co/gbFHWYkkMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054148205601083526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054138305986572670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuangXi06: 梁硕大佐又重出江湖来骗钱了，估计是上次骗的钱全花完了。怎么，医生给你开的40天的药，你舍得100块钱卖出去，还抽奖十盒呢 https://t.co/gbFHWYkkMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8611,
+        "height": 640,
+        "media_key": "13_2054138289226137600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054138289226137600/img/TM4Vj6MQCaMbhGO_.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054138289226137600/vid/avc1/296x640/rf4_ukH7LGMAVGjw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054138289226137600/pl/yuiKlLQN-rxHb75o.m3u8"
+          }
+        ],
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054138289226137600"
+          ],
+          "media_source_tweet_id": [
+            "2054138305986572670"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2054148205601083526",
+        "created_at": "2026-05-12T10:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054148205601083526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1283818798177370113",
+              "start": 3,
+              "username": "GuangXi06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbFHWYkkMr",
+              "end": 99,
+              "expanded_url": "https://x.com/GuangXi06/status/2054138305986572670/video/1",
+              "media_key": "13_2054138289226137600",
+              "start": 76,
+              "url": "https://t.co/gbFHWYkkMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054148205601083526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054138305986572670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuangXi06: 梁硕大佐又重出江湖来骗钱了，估计是上次骗的钱全花完了。怎么，医生给你开的40天的药，你舍得100块钱卖出去，还抽奖十盒呢 https://t.co/gbFHWYkkMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054138289226137600"
+          ]
+        },
+        "author_id": "1283818798177370113",
+        "conversation_id": "2054138305986572670",
+        "created_at": "2026-05-12T09:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054138305986572670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbFHWYkkMr",
+              "end": 84,
+              "expanded_url": "https://x.com/GuangXi06/status/2054138305986572670/video/1",
+              "media_key": "13_2054138289226137600",
+              "start": 61,
+              "url": "https://t.co/gbFHWYkkMr"
+            },
+            {
+              "display_url": "x.com/ineedpr80orchi…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/ineedpr80orchil/status/2054123190079922598",
+              "start": 85,
+              "url": "https://t.co/dBCXXtfiAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054138305986572670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054123190079922598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梁硕大佐又重出江湖来骗钱了，估计是上次骗的钱全花完了。怎么，医生给你开的40天的药，你舍得100块钱卖出去，还抽奖十盒呢 https://t.co/gbFHWYkkMr https://t.co/dBCXXtfiAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 447,
+          "like_count": 5582,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 359
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T17:40:39.000Z",
+        "description": "19 | he/him｜ 负能量 | 想交朋友｜OD💊｜穿孔｜互fo｜不键政｜做梦清平",
+        "id": "1283818798177370113",
+        "location": "第四高原",
+        "name": "痛苦心事难言",
+        "pinned_tweet_id": "1430069607658778633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030989678422212608/j_GfzqqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 202,
+          "like_count": 1611,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 276
+        },
+        "username": "GuangXi06",
+        "verified": false
+      }
+    ]
+  }
+}

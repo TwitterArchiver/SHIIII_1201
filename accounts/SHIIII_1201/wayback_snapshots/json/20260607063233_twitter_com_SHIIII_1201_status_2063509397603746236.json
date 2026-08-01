@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2063509397603746236",
+    "created_at": "2026-06-07T06:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T07:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063509397603746236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2062376081420931073",
+          "start": 3,
+          "username": "YuKi520qaq"
+        },
+        {
+          "end": 55,
+          "id": "1479730386431545346",
+          "start": 44,
+          "username": "YuKi520OwO"
+        },
+        {
+          "end": 134,
+          "id": "2062376081420931073",
+          "start": 123,
+          "username": "YuKi520qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063509397603746236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063488542031131043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuKi520qaq: 请各位动动手指帮我举报一下我的原账号 哪怕封号也没关系\n@YuKi520OwO \n原账号被盗用 4月25至5月29我均未使用过该账号发帖评论回复\n如果有来过我的🚪人希望擦亮眼睛 不要被骗了\n举报理由冒用\n账号使用者@YuKi520qaq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2063509397603746236",
+        "created_at": "2026-06-07T06:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063509397603746236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2062376081420931073",
+              "start": 3,
+              "username": "YuKi520qaq"
+            },
+            {
+              "end": 55,
+              "id": "1479730386431545346",
+              "start": 44,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 134,
+              "id": "2062376081420931073",
+              "start": 123,
+              "username": "YuKi520qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063509397603746236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063488542031131043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuKi520qaq: 请各位动动手指帮我举报一下我的原账号 哪怕封号也没关系\n@YuKi520OwO \n原账号被盗用 4月25至5月29我均未使用过该账号发帖评论回复\n如果有来过我的🚪人希望擦亮眼睛 不要被骗了\n举报理由冒用\n账号使用者@YuKi520qaq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062376081420931073",
+        "conversation_id": "2063488542031131043",
+        "created_at": "2026-06-07T05:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063488542031131043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1479730386431545346",
+              "start": 28,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 118,
+              "id": "2062376081420931073",
+              "start": 107,
+              "username": "YuKi520qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063488542031131043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请各位动动手指帮我举报一下我的原账号 哪怕封号也没关系\n@YuKi520OwO \n原账号被盗用 4月25至5月29我均未使用过该账号发帖评论回复\n如果有来过我的🚪人希望擦亮眼睛 不要被骗了\n举报理由冒用\n账号使用者@YuKi520qaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 492,
+          "like_count": 8573,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 460
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-04T03:30:46.000Z",
+        "description": "立志成为小花酱那样受万人敬仰的圆角妹\n药娘（MTF）（私わ中国がらかわいい男の子です、よろしくお願いします!/二次元/美食/可爱的东西/ maimaidx",
+        "id": "2062376081420931073",
+        "location": "北京 上海 广州 日本 泰国",
+        "name": "樱井千雪🏳️‍⚧️🍥（二代目）",
+        "pinned_tweet_id": "2063411984994025498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 24,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "YuKi520qaq",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘(MTF)🍥（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SnowHouse520",
+                "end": 23,
+                "expanded_url": "https://t.me/SnowHouse520",
+                "start": 0,
+                "url": "https://t.co/axh3i8J6us"
+              }
+            ]
+          }
+        },
+        "id": "1479730386431545346",
+        "location": "中国/日本",
+        "name": "千雪🍥OverDose🏳️‍⚧️",
+        "pinned_tweet_id": "2044443894151364641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015642955131052032/ffRPqfc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8655,
+          "following_count": 1107,
+          "like_count": 15978,
+          "listed_count": 17,
+          "media_count": 325,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/axh3i8J6us",
+        "username": "YuKi520OwO",
+        "verified": false
+      }
+    ]
+  }
+}

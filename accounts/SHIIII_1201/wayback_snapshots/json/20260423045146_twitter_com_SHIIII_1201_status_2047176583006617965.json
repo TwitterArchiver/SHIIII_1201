@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2046986715978768794",
+    "created_at": "2026-04-23T04:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047176583006617965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398670566983299078",
+          "start": 0,
+          "username": "chi_na_mze"
+        },
+        {
+          "end": 20,
+          "id": "1998205154118819841",
+          "start": 12,
+          "username": "Kouuibb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047176583006617965",
+    "in_reply_to_user_id": "1398670566983299078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046996079158394929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chi_na_mze @Kouuibb 多少钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2046986715978768794",
+        "created_at": "2026-04-23T04:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047176583006617965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398670566983299078",
+              "start": 0,
+              "username": "chi_na_mze"
+            },
+            {
+              "end": 20,
+              "id": "1998205154118819841",
+              "start": 12,
+              "username": "Kouuibb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047176583006617965",
+        "in_reply_to_user_id": "1398670566983299078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046996079158394929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chi_na_mze @Kouuibb 多少钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398670566983299078",
+        "conversation_id": "2046986715978768794",
+        "created_at": "2026-04-22T16:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046996079158394929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998205154118819841",
+              "start": 0,
+              "username": "Kouuibb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046996079158394929",
+        "in_reply_to_user_id": "1998205154118819841",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046986715978768794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kouuibb 我有十盒玉米需要的dd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "写点碎碎念 欢迎交友互fo🥺🤲🏻",
+        "id": "1910709382603825154",
+        "name": "s 诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045452791028867072/Ttw0a1lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 294,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 233
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T16:00:35.000Z",
+        "description": "",
+        "id": "1398670566983299078",
+        "name": "チナみん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1398671976038768647/uhPDaUMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 280,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 164
+        },
+        "username": "chi_na_mze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T01:37:36.000Z",
+        "description": "",
+        "id": "1998205154118819841",
+        "name": "一只熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042723341904285698/1_8kC9s6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "Kouuibb",
+        "verified": false
+      }
+    ]
+  }
+}

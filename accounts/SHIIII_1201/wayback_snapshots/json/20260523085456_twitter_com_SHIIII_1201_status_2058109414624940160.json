@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2057830651500675379",
+    "created_at": "2026-05-23T08:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058109414624940160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807129271728775168",
+          "start": 0,
+          "username": "Kokittyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058109414624940160",
+    "in_reply_to_user_id": "1807129271728775168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057830651500675379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kokittyi 什么算正常频率🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2057830651500675379",
+        "created_at": "2026-05-23T08:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058109414624940160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807129271728775168",
+              "start": 0,
+              "username": "Kokittyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058109414624940160",
+        "in_reply_to_user_id": "1807129271728775168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057830651500675379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kokittyi 什么算正常频率🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807129271728775168",
+        "conversation_id": "2057830651500675379",
+        "created_at": "2026-05-22T14:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057830651500675379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057830651500675379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 51467,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "问个问题手冲打多了会变丑吗？我发现男生会变丑，但是我很担心女生也会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 474,
+          "like_count": 6805,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 412
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T19:09:38.000Z",
+        "description": "我负责可爱",
+        "id": "1807129271728775168",
+        "location": "🚪19",
+        "name": "心",
+        "pinned_tweet_id": "1807131343928905783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051195386539483136/YsAeVDzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3759,
+          "following_count": 5,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 114
+        },
+        "username": "Kokittyi",
+        "verified": false
+      }
+    ]
+  }
+}

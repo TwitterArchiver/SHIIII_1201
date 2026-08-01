@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2056141434341019749",
+    "created_at": "2026-05-18T04:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056233967733649839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039759562815733760",
+          "start": 0,
+          "username": "12sgcsb"
+        },
+        {
+          "end": 24,
+          "id": "1753116711899770880",
+          "start": 9,
+          "username": "elna_elvie9091"
+        },
+        {
+          "end": 36,
+          "id": "2052313022321037312",
+          "start": 25,
+          "username": "NhpxY43417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056233967733649839",
+    "in_reply_to_user_id": "2039759562815733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056141434341019749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sgcsb @elna_elvie9091 @NhpxY43417 我哭了 这个人没有开私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2056141434341019749",
+        "created_at": "2026-05-18T04:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056233967733649839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039759562815733760",
+              "start": 0,
+              "username": "12sgcsb"
+            },
+            {
+              "end": 24,
+              "id": "1753116711899770880",
+              "start": 9,
+              "username": "elna_elvie9091"
+            },
+            {
+              "end": 36,
+              "id": "2052313022321037312",
+              "start": 25,
+              "username": "NhpxY43417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056233967733649839",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056141434341019749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sgcsb @elna_elvie9091 @NhpxY43417 我哭了 这个人没有开私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039759562815733760",
+        "conversation_id": "2056141434341019749",
+        "created_at": "2026-05-17T22:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T23:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056141434341019749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "2052313022321037312",
+              "start": 21,
+              "username": "NhpxY43417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056141434341019749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 234,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现最近有人问物质，有物质需求的可以去找@NhpxY43417 ，合法的基本都有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗｜顺女｜不键政｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo｜发点日常｜泛性恋\n ಎ ⊹——˚⊹———— ᮫﹆\n眼熟可以加我墙内哦～❤️",
+        "id": "1910709382603825154",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2051333556321034259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 472,
+          "like_count": 6232,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 382
+        },
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/自戕与死亡/分裂性情感障碍/合法化学研究物质请联系@NhpxY43417",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "NhpxY43417"
+              }
+            ]
+          }
+        },
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12",
+        "pinned_tweet_id": "2056141434341019749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 182,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 318
+        },
+        "username": "12sgcsb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "大号：@Yijin_0v0\n【查成分回fo】\n歌词大意：我只是想睡个好觉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你看看你身后",
+        "name": "5.霖完全体",
+        "pinned_tweet_id": "2054984503693856923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053746246196838400/-XI5NtCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 190,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 481
+        },
+        "username": "elna_elvie9091",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:02:35.000Z",
+        "description": "猫\n还是耐药王    \n🚬联系@12sgcsb\n\ntg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "12sgcsb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+mNQyVLMCUb5kN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+mNQyVLMCUb5kNzdl",
+                "start": 0,
+                "url": "https://t.co/njbdEdhDZj"
+              }
+            ]
+          }
+        },
+        "id": "2052313022321037312",
+        "name": "猫二代目",
+        "pinned_tweet_id": "2055751135399752014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053192001223606272/JJrL7kxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 38,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/njbdEdhDZj",
+        "username": "NhpxY43417",
+        "verified": false
+      }
+    ]
+  }
+}
