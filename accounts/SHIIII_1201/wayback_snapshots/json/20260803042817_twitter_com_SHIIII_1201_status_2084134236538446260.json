@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2083989571277316425",
+    "created_at": "2026-08-03T04:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084134236538446260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705087107849703424",
+          "start": 0,
+          "username": "NomfusiSetlhodi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084134236538446260",
+    "in_reply_to_user_id": "705087107849703424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083989571277316425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NomfusiSetlhodi 烟头叔叔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2083989571277316425",
+        "created_at": "2026-08-03T04:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084134236538446260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705087107849703424",
+              "start": 0,
+              "username": "NomfusiSetlhodi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084134236538446260",
+        "in_reply_to_user_id": "705087107849703424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083989571277316425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NomfusiSetlhodi 烟头叔叔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705087107849703424",
+        "conversation_id": "2083989571277316425",
+        "created_at": "2026-08-02T18:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083989571277316425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083989571277316425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长得像个烟头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "💕",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083171360260632709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 582,
+          "like_count": 12423,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 682
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-02T17:47:21.000Z",
+        "description": "性别末影人没有逼你别想了\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网依存！查成分回fo/我是小孩子不要和我计较！\n宇宙级严重失眠 -现役初中生\n^✟❀小号@yumumu_msknb❀💊@AminoXx_killer ❀ 💞@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/MZBvWf8Hki"
+              }
+            ]
+          }
+        },
+        "id": "705087107849703424",
+        "location": "你看看你身后",
+        "name": "伊井瀮（邪恶之王）",
+        "pinned_tweet_id": "2083177750865785215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083173953791725568/lQ24d7RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 72,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 201
+        },
+        "url": "https://t.co/MZBvWf8Hki",
+        "username": "NomfusiSetlhodi",
+        "verified": false
+      }
+    ]
+  }
+}

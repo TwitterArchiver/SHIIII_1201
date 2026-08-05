@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2082802103328923793",
+    "created_at": "2026-08-01T17:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083612667500286387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083612667500286387",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082802103328923793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 这个怎么联用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082802060123373568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeZcEMbAAAQbe6.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2082802103328923793",
+        "created_at": "2026-08-01T17:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083612667500286387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083612667500286387",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082802103328923793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 这个怎么联用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082802060123373568"
+          ]
+        },
+        "author_id": "1489486846211936256",
+        "conversation_id": "2082802103328923793",
+        "created_at": "2026-07-30T12:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082802103328923793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTRlgGbSg9",
+              "end": 44,
+              "expanded_url": "https://x.com/Splaaaaashivk9/status/2082802103328923793/photo/1",
+              "media_key": "3_2082802060123373568",
+              "start": 21,
+              "url": "https://t.co/DTRlgGbSg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082802103328923793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安非他酮和白兔好甜一对cp 我主推！！！ https://t.co/DTRlgGbSg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n未回fo的男生进我主页默认死妈\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "💕",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083171360260632709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 582,
+          "like_count": 12363,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "爱共区｜ 献忠区｜ 颂圣区｜吃饱区｜餐券区\n红卫兵｜老吃家 ｜双相｜躁郁｜友夸\n息事還是犧牲\nDrowning_(´ཀ`」 ∠)_ #drugtwt 看到都会回fo\n好想突然死亡 好痛苦…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "location": "陵园",
+        "name": "Splaaaaash!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 214,
+          "like_count": 1154,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false
+      }
+    ]
+  }
+}
