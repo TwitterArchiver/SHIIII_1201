@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2089360829896663509",
+    "created_at": "2026-08-17T17:08:24.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089398955658662065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089398955658662065",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089360829896663509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 世界和平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2089360829896663509",
+        "created_at": "2026-08-17T17:08:24.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089398955658662065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089398955658662065",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089360829896663509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 世界和平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683218035602255872",
+        "conversation_id": "2089360829896663509",
+        "created_at": "2026-08-17T14:36:54.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089360829896663509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089360829896663509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6552,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上最伟大的四个字是什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2089398955658662065",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 615,
+          "like_count": 13262,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jlxc2001.com",
+                "end": 23,
+                "expanded_url": "http://jlxc2001.com",
+                "start": 0,
+                "url": "https://t.co/625h9MQZlk"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "is_identity_verified": false,
+        "location": "中国深圳",
+        "most_recent_tweet_id": "2089366674218906072",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2086124504057782639",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683218035602255872/1769358574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18935,
+          "following_count": 234,
+          "like_count": 749,
+          "listed_count": 44,
+          "media_count": 1349,
+          "tweet_count": 3528
+        },
+        "url": "https://t.co/625h9MQZlk",
+        "username": "jlxc2001",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

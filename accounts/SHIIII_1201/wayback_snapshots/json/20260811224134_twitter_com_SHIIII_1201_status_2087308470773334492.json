@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2087123242469433383",
+    "created_at": "2026-08-11T22:41:34.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T23:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087308470773334492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757301585305374720",
+          "start": 0,
+          "username": "gummybear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087308470773334492",
+    "in_reply_to_user_id": "1757301585305374720",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087308250710466866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gummybear8964 journal"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2087123242469433383",
+        "created_at": "2026-08-11T22:41:34.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087308470773334492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757301585305374720",
+              "start": 0,
+              "username": "gummybear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087308470773334492",
+        "in_reply_to_user_id": "1757301585305374720",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087308250710466866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gummybear8964 journal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757301585305374720",
+        "conversation_id": "2087123242469433383",
+        "created_at": "2026-08-11T22:40:41.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T23:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087308250710466866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087308250710466866",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087123242469433383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 这是啥app？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2087308470773334492",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1746595821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 612,
+          "like_count": 13013,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-13T07:12:15.000Z",
+        "description": "草草草草草草草草草草草\nHe/Him, They/Them\nA big gamer, noob developer, 420 friendly.\nA lamb from utopian",
+        "id": "1757301585305374720",
+        "is_identity_verified": false,
+        "location": "Costa Mesa, CA",
+        "most_recent_tweet_id": "2087308250710466866",
+        "name": "吃草草草草草草莓呀",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035192907125395456/w8-Gc6OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 69,
+          "like_count": 50,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "gummybear8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

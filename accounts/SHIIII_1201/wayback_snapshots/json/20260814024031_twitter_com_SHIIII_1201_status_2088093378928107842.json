@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2088093378928107842",
+    "created_at": "2026-08-14T02:40:31.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088093378928107842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088093378928107842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下 我是你的女朋友 每天刷抖音作息混乱 一天一顿饭 情绪总是崩溃一有不顺就嗑药划手 没有社交每天给你发八百条消息 等你晚上下班带着满手臂新伤要你抱抱然后把血蹭到你的衣服上说宝宝好想你呀 你比昨天晚回家五分钟我就想把你锁在家不让你出门 还一把抢过你的手机查屏幕使用时长"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2088093378928107842",
+        "created_at": "2026-08-14T02:40:31.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088093378928107842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088093378928107842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下 我是你的女朋友 每天刷抖音作息混乱 一天一顿饭 情绪总是崩溃一有不顺就嗑药划手 没有社交每天给你发八百条消息 等你晚上下班带着满手臂新伤要你抱抱然后把血蹭到你的衣服上说宝宝好想你呀 你比昨天晚回家五分钟我就想把你锁在家不让你出门 还一把抢过你的手机查屏幕使用时长"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2088093378928107842",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1746595821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 612,
+          "like_count": 13103,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

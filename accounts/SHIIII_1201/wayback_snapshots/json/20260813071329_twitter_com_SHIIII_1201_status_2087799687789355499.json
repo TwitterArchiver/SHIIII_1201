@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2087799687789355499",
+    "created_at": "2026-08-13T07:13:29.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087799687789355499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1773758225890082816",
+          "start": 3,
+          "username": "ringeye000"
+        },
+        {
+          "end": 37,
+          "id": "2087780625726218240",
+          "start": 25,
+          "username": "IzayoiRin16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087799687789355499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087786838228672599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringeye000: 思思酱转生2.0\n@IzayoiRin16 \n关注加转置顶抽东京迪士尼一天一夜免费游玩（酒店为分房睡）\n寻回互关宝宝中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2087799687789355499",
+        "created_at": "2026-08-13T07:13:29.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087799687789355499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1773758225890082816",
+              "start": 3,
+              "username": "ringeye000"
+            },
+            {
+              "end": 37,
+              "id": "2087780625726218240",
+              "start": 25,
+              "username": "IzayoiRin16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087799687789355499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087786838228672599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringeye000: 思思酱转生2.0\n@IzayoiRin16 \n关注加转置顶抽东京迪士尼一天一夜免费游玩（酒店为分房睡）\n寻回互关宝宝中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773758225890082816",
+        "conversation_id": "2087786838228672599",
+        "created_at": "2026-08-13T06:22:26.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087786838228672599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2087780625726218240",
+              "start": 9,
+              "username": "IzayoiRin16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087786838228672599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "思思酱转生2.0\n@IzayoiRin16 \n关注加转置顶抽东京迪士尼一天一夜免费游玩（酒店为分房睡）\n寻回互关宝宝中…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2087799687789355499",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1746595821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 612,
+          "like_count": 13094,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 770
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-29T17:05:01.000Z",
+        "description": "地球から消えたい 裏垢なので大体自分の内緒話 無言フォロごめん あたしのこと無視していいの...\n(フォロされた方はあたしにとって全員神)",
+        "id": "1773758225890082816",
+        "is_identity_verified": false,
+        "location": "遠い宇宙から...",
+        "most_recent_tweet_id": "2087790149308690679",
+        "name": "💙私は誰？？？",
+        "pinned_tweet_id": "1832382899087405134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773758225890082816/1724943771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994466942326124544/V_u5B-59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 28,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "ringeye000",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T05:59:49.000Z",
+        "description": "家人们我是思思！我转生归来了！",
+        "id": "2087780625726218240",
+        "is_identity_verified": false,
+        "location": "在誓约的地方💙",
+        "most_recent_tweet_id": "2087789676342210713",
+        "name": "イザヨイ凛@(思思)",
+        "pinned_tweet_id": "2087784514131304938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087780625726218240/1786601805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087781554944892928/C9ukNfyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 47,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "IzayoiRin16",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

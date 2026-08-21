@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2088673772505297149",
+    "created_at": "2026-08-15T17:29:31.000Z",
+    "display_text_range": [
+      15,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088679492613283863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088679492613283863",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088673772505297149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@todorokidoya1 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2088673772505297149",
+        "created_at": "2026-08-15T17:29:31.000Z",
+        "display_text_range": [
+          15,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088679492613283863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088679492613283863",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088673772505297149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@todorokidoya1 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼 0o0不疼🍼喝耐耐🍼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2088673772505297149",
+        "created_at": "2026-08-15T17:06:47.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088673772505297149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088673772505297149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "胃疼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2088679492613283863",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 617,
+          "like_count": 13185,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "我能否撑到黎明\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "is_identity_verified": false,
+        "location": "绘画世界",
+        "most_recent_tweet_id": "2088673772505297149",
+        "name": "0o0",
+        "pinned_tweet_id": "2084958315042509161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946149148878852096/1753153892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 633,
+          "like_count": 71841,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 4995
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

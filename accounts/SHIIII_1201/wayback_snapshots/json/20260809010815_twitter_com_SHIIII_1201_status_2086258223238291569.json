@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2085951206472753232",
+    "created_at": "2026-08-09T01:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-09T02:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086258223238291569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1678138201578385414",
+          "start": 0,
+          "username": "jiesxd"
+        },
+        {
+          "end": 20,
+          "id": "2038212687713423360",
+          "start": 8,
+          "username": "Hyiko020717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086258223238291569",
+    "in_reply_to_user_id": "1678138201578385414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086135272866205713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiesxd @Hyiko020717 在tg上 价格是1.8元1t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2085951206472753232",
+        "created_at": "2026-08-09T01:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086258223238291569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1678138201578385414",
+              "start": 0,
+              "username": "jiesxd"
+            },
+            {
+              "end": 20,
+              "id": "2038212687713423360",
+              "start": 8,
+              "username": "Hyiko020717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086258223238291569",
+        "in_reply_to_user_id": "1678138201578385414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086135272866205713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiesxd @Hyiko020717 在tg上 价格是1.8元1t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678138201578385414",
+        "conversation_id": "2085951206472753232",
+        "created_at": "2026-08-08T16:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T17:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086135272866205713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 25,
+              "id": "2038212687713423360",
+              "start": 13,
+              "username": "Hyiko020717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086135272866205713",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085951206472753232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @Hyiko020717 我去想问问渠道和价格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "💕",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083171360260632709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 594,
+          "like_count": 12987,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 733
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T20:25:15.000Z",
+        "description": "这里是章鱼鸽。",
+        "id": "1678138201578385414",
+        "name": "煾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048298370276732928/DAY9tDWe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 132,
+          "like_count": 11506,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "jiesxd",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T11:13:29.000Z",
+        "description": "",
+        "id": "2038212687713423360",
+        "name": "天命实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038213184809766912/ofG_s7kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 16,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Hyiko020717",
+        "verified": false
+      }
+    ]
+  }
+}

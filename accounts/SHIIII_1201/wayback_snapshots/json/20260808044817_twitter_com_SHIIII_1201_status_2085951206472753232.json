@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085951199547944960",
+        "3_2085951199535300608"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085951206472753232",
+    "created_at": "2026-08-08T04:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T05:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085951206472753232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 35,
+          "id": "2038212687713423360",
+          "start": 23,
+          "username": "Hyiko020717"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xl7ZxnQEKj",
+          "end": 59,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2085951206472753232/photo/1",
+          "media_key": "3_2085951199547944960",
+          "start": 36,
+          "url": "https://t.co/Xl7ZxnQEKj"
+        },
+        {
+          "display_url": "pic.x.com/Xl7ZxnQEKj",
+          "end": 59,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2085951206472753232/photo/1",
+          "media_key": "3_2085951199535300608",
+          "start": 36,
+          "url": "https://t.co/Xl7ZxnQEKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085951206472753232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都去买这个1t400mg的pr……量大管饱@Hyiko020717 https://t.co/Xl7ZxnQEKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085951199547944960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLJkGva8AAkRri.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085951199535300608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLJkGsaAAALOX7.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085951199547944960",
+            "3_2085951199535300608"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085951206472753232",
+        "created_at": "2026-08-08T04:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T05:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085951206472753232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2038212687713423360",
+              "start": 23,
+              "username": "Hyiko020717"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl7ZxnQEKj",
+              "end": 59,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2085951206472753232/photo/1",
+              "media_key": "3_2085951199547944960",
+              "start": 36,
+              "url": "https://t.co/Xl7ZxnQEKj"
+            },
+            {
+              "display_url": "pic.x.com/Xl7ZxnQEKj",
+              "end": 59,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2085951206472753232/photo/1",
+              "media_key": "3_2085951199535300608",
+              "start": 36,
+              "url": "https://t.co/Xl7ZxnQEKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085951206472753232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都去买这个1t400mg的pr……量大管饱@Hyiko020717 https://t.co/Xl7ZxnQEKj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "💕",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083171360260632709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 580,
+          "like_count": 12939,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 728
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T11:13:29.000Z",
+        "description": "",
+        "id": "2038212687713423360",
+        "name": "天命实验室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038213184809766912/ofG_s7kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Hyiko020717",
+        "verified": false
+      }
+    ]
+  }
+}

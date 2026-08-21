@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2087421040456851704",
+    "created_at": "2026-08-12T12:09:05.000Z",
+    "display_text_range": [
+      37,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087511688627302624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1779539293171838976",
+          "start": 0,
+          "username": "chen947611"
+        },
+        {
+          "end": 21,
+          "id": "1389580910870155266",
+          "start": 12,
+          "username": "liu06694"
+        },
+        {
+          "end": 36,
+          "id": "1044093629323632640",
+          "start": 22,
+          "username": "trumpchinese1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087511688627302624",
+    "in_reply_to_user_id": "1779539293171838976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087510018400878935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen947611 @liu06694 @trumpchinese1 是的🙂‍↕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2087421040456851704",
+        "created_at": "2026-08-12T12:09:05.000Z",
+        "display_text_range": [
+          37,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087511688627302624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1779539293171838976",
+              "start": 0,
+              "username": "chen947611"
+            },
+            {
+              "end": 21,
+              "id": "1389580910870155266",
+              "start": 12,
+              "username": "liu06694"
+            },
+            {
+              "end": 36,
+              "id": "1044093629323632640",
+              "start": 22,
+              "username": "trumpchinese1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087511688627302624",
+        "in_reply_to_user_id": "1779539293171838976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087510018400878935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen947611 @liu06694 @trumpchinese1 是的🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779539293171838976",
+        "conversation_id": "2087421040456851704",
+        "created_at": "2026-08-12T12:02:27.000Z",
+        "display_text_range": [
+          25,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087510018400878935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1389580910870155266",
+              "start": 0,
+              "username": "liu06694"
+            },
+            {
+              "end": 24,
+              "id": "1044093629323632640",
+              "start": 10,
+              "username": "trumpchinese1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087510018400878935",
+        "in_reply_to_user_id": "1389580910870155266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087421294623224020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu06694 @trumpchinese1 chairman xi？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2087511688627302624",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1746595821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 613,
+          "like_count": 13070,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-14T15:57:02.000Z",
+        "description": "",
+        "id": "1779539293171838976",
+        "is_identity_verified": false,
+        "location": "3.8km",
+        "most_recent_tweet_id": "2087510018400878935",
+        "name": "Machine",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082670041343148032/-NlwgWou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 25,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "chen947611",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-04T14:01:27.000Z",
+        "description": "internet",
+        "id": "1389580910870155266",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087506977874452753",
+        "name": "internet",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1389581045129904129/CaKJRfea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 73,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "liu06694",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-24T05:18:14.000Z",
+        "description": "MAGA！美利坚合众国第45和47任总统特朗普相关资讯和言论汇总。",
+        "id": "1044093629323632640",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2087422447217938708",
+        "name": "特朗普中文推特",
+        "pinned_tweet_id": "2087421040456851704",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1044093629323632640/1537803978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881970924439924736/Bq7XsG1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413547,
+          "following_count": 419,
+          "like_count": 7438,
+          "listed_count": 685,
+          "media_count": 2375,
+          "tweet_count": 7668
+        },
+        "url": "",
+        "username": "trumpchinese1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2088245390621749295",
+    "created_at": "2026-08-14T12:46:38.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T13:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088245916491030897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057324764599824384",
+          "start": 0,
+          "username": "whitney96ga8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088245916491030897",
+    "in_reply_to_user_id": "2057324764599824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088245636345032908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitney96ga8 谢谢你哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2088245390621749295",
+        "created_at": "2026-08-14T12:46:38.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088245916491030897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057324764599824384",
+              "start": 0,
+              "username": "whitney96ga8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088245916491030897",
+        "in_reply_to_user_id": "2057324764599824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088245636345032908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitney96ga8 谢谢你哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057324764599824384",
+        "conversation_id": "2088245390621749295",
+        "created_at": "2026-08-14T12:45:32.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088245636345032908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088245636345032908",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088245390621749295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 卡瓦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2088245916491030897",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1746595821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 615,
+          "like_count": 13172,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T04:57:08.000Z",
+        "description": "🧊｜只发想发的｜04｜男｜编曲/画画/日常/有时间就更男喘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitney96ga8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitney96ga8",
+                "start": 0,
+                "url": "https://t.co/sGth0YLZ1Y"
+              }
+            ]
+          }
+        },
+        "id": "2057324764599824384",
+        "is_identity_verified": false,
+        "location": "电子世界",
+        "most_recent_tweet_id": "2088245636345032908",
+        "name": "冬。",
+        "pinned_tweet_id": "2081715853645779237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057324764599824384/1786281146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086440456548982784/ozGrL_7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 31,
+          "like_count": 2094,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/sGth0YLZ1Y",
+        "username": "whitney96ga8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

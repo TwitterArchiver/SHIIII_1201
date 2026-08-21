@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2085798677814428063",
+    "created_at": "2026-08-08T02:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T03:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085914628174066062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773758225890082816",
+          "start": 0,
+          "username": "ringeye000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085914628174066062",
+    "in_reply_to_user_id": "1773758225890082816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085876255271088179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringeye000 ( ･᷄ὢ･᷅ )思思酱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2085798677814428063",
+        "created_at": "2026-08-08T02:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T03:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085914628174066062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773758225890082816",
+              "start": 0,
+              "username": "ringeye000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085914628174066062",
+        "in_reply_to_user_id": "1773758225890082816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085876255271088179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringeye000 ( ･᷄ὢ･᷅ )思思酱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773758225890082816",
+        "conversation_id": "2085798677814428063",
+        "created_at": "2026-08-07T23:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T00:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085876255271088179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085876255271088179",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085798677814428063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "💕",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083171360260632709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 580,
+          "like_count": 12916,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T17:05:01.000Z",
+        "description": "地球から消えたい 裏垢なので大体自分の内緒話 無言フォロごめん あたしのこと無視していいの...\n(フォロされた方はあたしにとって全員神)",
+        "id": "1773758225890082816",
+        "location": "遠い宇宙から...",
+        "name": "💙私は誰？？？",
+        "pinned_tweet_id": "1832382899087405134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994466942326124544/V_u5B-59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 27,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "ringeye000",
+        "verified": false
+      }
+    ]
+  }
+}

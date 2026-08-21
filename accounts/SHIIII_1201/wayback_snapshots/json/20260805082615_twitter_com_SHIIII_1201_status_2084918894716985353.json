@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084918885896298496"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "conversation_id": "2084918894716985353",
+    "created_at": "2026-08-05T08:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084918894716985353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ID9sXLDlHd",
+          "end": 44,
+          "expanded_url": "https://x.com/SHIIII_1201/status/2084918894716985353/photo/1",
+          "media_key": "3_2084918885896298496",
+          "start": 21,
+          "url": "https://t.co/ID9sXLDlHd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084918894716985353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日美&amp;Seven Stars💕🥲 https://t.co/ID9sXLDlHd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2084918885896298496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8eritaIAAoTDx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084918885896298496"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "conversation_id": "2084918894716985353",
+        "created_at": "2026-08-05T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084918894716985353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ID9sXLDlHd",
+              "end": 44,
+              "expanded_url": "https://x.com/SHIIII_1201/status/2084918894716985353/photo/1",
+              "media_key": "3_2084918885896298496",
+              "start": 21,
+              "url": "https://t.co/ID9sXLDlHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084918894716985353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日美&amp;Seven Stars💕🥲 https://t.co/ID9sXLDlHd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "id": "1910709382603825154",
+        "location": "💕",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083171360260632709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 579,
+          "like_count": 12611,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "SHIIII_1201",
+        "verified": false
+      }
+    ]
+  }
+}
