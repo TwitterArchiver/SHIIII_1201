@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094371445908336640",
+        "3_2094371445908312064"
+      ],
+      "media_source_tweet_id": [
+        "2094371455907635479",
+        "2094371455907635479"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2094657236870328536",
+    "created_at": "2026-09-01T05:22:56.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094657236870328536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1993455710274043905",
+          "start": 3,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vns4MqsDe6",
+          "end": 90,
+          "expanded_url": "https://x.com/satireorcry1/status/2094371455907635479/photo/1",
+          "media_key": "3_2094371445908336640",
+          "start": 67,
+          "url": "https://t.co/vns4MqsDe6"
+        },
+        {
+          "display_url": "pic.x.com/vns4MqsDe6",
+          "end": 90,
+          "expanded_url": "https://x.com/satireorcry1/status/2094371455907635479/photo/1",
+          "media_key": "3_2094371445908312064",
+          "start": 67,
+          "url": "https://t.co/vns4MqsDe6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094657236870328536",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094371445908336640"
+      },
+      {
+        "media_key": "3_2094371445908312064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094371455907635479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satireorcry1: 习近平真的疯了，把自己搬进了小学生课本。\n\n中共哪届领导人敢这样？除了毛泽东，就是现在的习近平… https://t.co/vns4MqsDe6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2094371445908336640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCzu80WcAA73g8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2094371445908312064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCzu80WEAAj0m_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094371445908336640",
+            "3_2094371445908312064"
+          ],
+          "media_source_tweet_id": [
+            "2094371455907635479",
+            "2094371455907635479"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094657236870328536",
+        "created_at": "2026-09-01T05:22:56.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094657236870328536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1993455710274043905",
+              "start": 3,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vns4MqsDe6",
+              "end": 90,
+              "expanded_url": "https://x.com/satireorcry1/status/2094371455907635479/photo/1",
+              "media_key": "3_2094371445908336640",
+              "start": 67,
+              "url": "https://t.co/vns4MqsDe6"
+            },
+            {
+              "display_url": "pic.x.com/vns4MqsDe6",
+              "end": 90,
+              "expanded_url": "https://x.com/satireorcry1/status/2094371455907635479/photo/1",
+              "media_key": "3_2094371445908312064",
+              "start": 67,
+              "url": "https://t.co/vns4MqsDe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094657236870328536",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094371445908336640"
+          },
+          {
+            "media_key": "3_2094371445908312064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094371455907635479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satireorcry1: 习近平真的疯了，把自己搬进了小学生课本。\n\n中共哪届领导人敢这样？除了毛泽东，就是现在的习近平… https://t.co/vns4MqsDe6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094371445908336640",
+            "3_2094371445908312064"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094371455907635479",
+        "created_at": "2026-08-31T10:27:21.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094371455907635479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vns4MqsDe6",
+              "end": 72,
+              "expanded_url": "https://x.com/satireorcry1/status/2094371455907635479/photo/1",
+              "media_key": "3_2094371445908336640",
+              "start": 49,
+              "url": "https://t.co/vns4MqsDe6"
+            },
+            {
+              "display_url": "pic.x.com/vns4MqsDe6",
+              "end": 72,
+              "expanded_url": "https://x.com/satireorcry1/status/2094371455907635479/photo/1",
+              "media_key": "3_2094371445908312064",
+              "start": 49,
+              "url": "https://t.co/vns4MqsDe6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094371455907635479",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094371445908336640"
+          },
+          {
+            "media_key": "3_2094371445908312064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 551,
+          "impression_count": 1532967,
+          "like_count": 2999,
+          "quote_count": 25,
+          "reply_count": 581,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "习近平真的疯了，把自己搬进了小学生课本。\n\n中共哪届领导人敢这样？除了毛泽东，就是现在的习近平… https://t.co/vns4MqsDe6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2094657236870328536",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 609,
+          "like_count": 13700,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@FurinanaDF/sh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@FurinanaDF/shorts",
+                "start": 0,
+                "url": "https://t.co/DFPciNfDgf"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "is_identity_verified": false,
+        "location": "12 Millbank, London, SW1P 4QE",
+        "most_recent_tweet_id": "2094544600408936694",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2084174899216548219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993455710274043905/1778601400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43412,
+          "following_count": 1718,
+          "like_count": 25486,
+          "listed_count": 136,
+          "media_count": 6347,
+          "tweet_count": 8408
+        },
+        "url": "https://t.co/DFPciNfDgf",
+        "username": "satireorcry1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2096187799443734901",
+    "created_at": "2026-09-05T16:03:19.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096267946465349794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037071293544333312",
+          "start": 0,
+          "username": "kkkcgtt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096267946465349794",
+    "in_reply_to_user_id": "2037071293544333312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096187799443734901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkcgtt3 活该被骂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096187783111114752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcnrsLaAAAJ9fs.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096187783123755008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcnrsOa4AACnA8.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096187783111188480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcnrsLbIAALy20.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2096187799443734901",
+        "created_at": "2026-09-05T16:03:19.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096267946465349794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037071293544333312",
+              "start": 0,
+              "username": "kkkcgtt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096267946465349794",
+        "in_reply_to_user_id": "2037071293544333312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096187799443734901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkcgtt3 活该被骂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096187783111114752",
+            "3_2096187783123755008",
+            "3_2096187783111188480"
+          ]
+        },
+        "author_id": "2037071293544333312",
+        "conversation_id": "2096187799443734901",
+        "created_at": "2026-09-05T10:44:51.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096187799443734901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/428HUfgBmz",
+              "end": 34,
+              "expanded_url": "https://x.com/kkkcgtt3/status/2096187799443734901/photo/1",
+              "media_key": "3_2096187783111114752",
+              "start": 11,
+              "url": "https://t.co/428HUfgBmz"
+            },
+            {
+              "display_url": "pic.x.com/428HUfgBmz",
+              "end": 34,
+              "expanded_url": "https://x.com/kkkcgtt3/status/2096187799443734901/photo/1",
+              "media_key": "3_2096187783123755008",
+              "start": 11,
+              "url": "https://t.co/428HUfgBmz"
+            },
+            {
+              "display_url": "pic.x.com/428HUfgBmz",
+              "end": 34,
+              "expanded_url": "https://x.com/kkkcgtt3/status/2096187799443734901/photo/1",
+              "media_key": "3_2096187783111188480",
+              "start": 11,
+              "url": "https://t.co/428HUfgBmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096187799443734901",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096187783111114752"
+          },
+          {
+            "media_key": "3_2096187783123755008"
+          },
+          {
+            "media_key": "3_2096187783111188480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "表子 臭的一逼还骂我 https://t.co/428HUfgBmz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2096267946465349794",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 608,
+          "like_count": 13795,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T07:38:32.000Z",
+        "description": "🚪88",
+        "id": "2037071293544333312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096194567586607116",
+        "name": "kkkc",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037071293544333312/1774511106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037072031968280576/tUzsBf_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 3,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "kkkcgtt3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

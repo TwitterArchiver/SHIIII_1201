@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2094840335734309008",
+    "created_at": "2026-09-02T14:11:02.000Z",
+    "display_text_range": [
+      22,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095152523061637629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018384013392531456",
+          "start": 0,
+          "username": "ziqiu886"
+        },
+        {
+          "end": 21,
+          "id": "1452505528106569729",
+          "start": 10,
+          "username": "xiaoshunli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095152523061637629",
+    "in_reply_to_user_id": "2018384013392531456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095140539901636861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziqiu886 @xiaoshunli 有新规要实施"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2094840335734309008",
+        "created_at": "2026-09-02T14:11:02.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095152523061637629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018384013392531456",
+              "start": 0,
+              "username": "ziqiu886"
+            },
+            {
+              "end": 21,
+              "id": "1452505528106569729",
+              "start": 10,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095152523061637629",
+        "in_reply_to_user_id": "2018384013392531456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095140539901636861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziqiu886 @xiaoshunli 有新规要实施"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018384013392531456",
+        "conversation_id": "2094840335734309008",
+        "created_at": "2026-09-02T13:23:25.000Z",
+        "display_text_range": [
+          12,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095140539901636861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452505528106569729",
+              "start": 0,
+              "username": "xiaoshunli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095140539901636861",
+        "in_reply_to_user_id": "1452505528106569729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2080,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094840335734309008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoshunli 说一下原因是什么呀？你光说也不说原因，我们怎么知道？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2095152523061637629",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 608,
+          "like_count": 13728,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T18:00:49.000Z",
+        "description": "好好学习，早日实现财富自由！",
+        "id": "2018384013392531456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095140539901636861",
+        "name": "蚂蚁变大象",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018384013392531456/1776924988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063178517928677376/fsYZngC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 2625,
+          "like_count": 41277,
+          "listed_count": 1,
+          "media_count": 709,
+          "tweet_count": 2523
+        },
+        "url": "",
+        "username": "ziqiu886",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-25T05:22:35.000Z",
+        "description": "中文顶级作者｜千万畅销书作家｜All in Crypto｜写人性、财富、婚恋和时代真相。不讲正确废话，只讲难听真话。\n\nARB万倍｜Wormhole4万倍｜ARC 50倍｜Sats百倍｜Trump 50倍 ｜ 4 26倍",
+        "id": "1452505528106569729",
+        "is_identity_verified": false,
+        "location": "Palo Alto, CA",
+        "most_recent_tweet_id": "2095122060129583262",
+        "name": "大顺利",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1452505528106569729/1646228490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034563017992765440/0bmswBC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46389,
+          "following_count": 7404,
+          "like_count": 28887,
+          "listed_count": 535,
+          "media_count": 313,
+          "tweet_count": 19931
+        },
+        "url": "",
+        "username": "xiaoshunli",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

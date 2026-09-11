@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2090083687006412891",
+    "created_at": "2026-08-20T06:07:37.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090319827730903537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1163059050",
+          "start": 0,
+          "username": "LmhdbAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090319827730903537",
+    "in_reply_to_user_id": "1163059050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090083687006412891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LmhdbAi 你猜留给牛郎的那头老黄牛是干什么的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2090083687006412891",
+        "created_at": "2026-08-20T06:07:37.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090319827730903537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1163059050",
+              "start": 0,
+              "username": "LmhdbAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090319827730903537",
+        "in_reply_to_user_id": "1163059050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090083687006412891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LmhdbAi 你猜留给牛郎的那头老黄牛是干什么的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1163059050",
+        "conversation_id": "2090083687006412891",
+        "created_at": "2026-08-19T14:29:17.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090083687006412891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090083687006412891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 412467,
+          "like_count": 2849,
+          "quote_count": 7,
+          "reply_count": 458,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "长大之后才明白\n\n王母娘娘对织女有多好\n\n都知道天上一日等于地上一年\n\n织女每天晚上都能见到憋了一年的牛郎\n\n别提有多幸福了🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2090319827730903537",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 613,
+          "like_count": 13372,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-09T14:14:02.000Z",
+        "description": "谷歌重度爱好者 | 喜欢 Vibe Coding  |  AI 最忠实的奴仆 | 撸毛买BTC\n\n推文仅表达个人观点，偶尔恰饭\n\n商务合作DM",
+        "id": "1163059050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090281848186572980",
+        "name": "阿毛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163059050/1782097130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068891428105945088/oO5w_6XL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26233,
+          "following_count": 3559,
+          "like_count": 39708,
+          "listed_count": 84,
+          "media_count": 2762,
+          "tweet_count": 48057
+        },
+        "url": "",
+        "username": "LmhdbAi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

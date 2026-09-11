@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2097883807185772776",
+    "created_at": "2026-09-10T05:06:12.000Z",
+    "display_text_range": [
+      27,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097914516248121475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1385839868526223362",
+          "start": 0,
+          "username": "llakaelf"
+        },
+        {
+          "end": 26,
+          "id": "2900565097",
+          "start": 10,
+          "username": "johnny_onpuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097914516248121475",
+    "in_reply_to_user_id": "1385839868526223362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097895002085228650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llakaelf @johnny_onpuchan 禁止点菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2097883807185772776",
+        "created_at": "2026-09-10T05:06:12.000Z",
+        "display_text_range": [
+          27,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097914516248121475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1385839868526223362",
+              "start": 0,
+              "username": "llakaelf"
+            },
+            {
+              "end": 26,
+              "id": "2900565097",
+              "start": 10,
+              "username": "johnny_onpuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097914516248121475",
+        "in_reply_to_user_id": "1385839868526223362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097895002085228650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llakaelf @johnny_onpuchan 禁止点菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385839868526223362",
+        "conversation_id": "2097883807185772776",
+        "created_at": "2026-09-10T03:48:40.000Z",
+        "display_text_range": [
+          17,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097895002085228650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2900565097",
+              "start": 0,
+              "username": "johnny_onpuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097895002085228650",
+        "in_reply_to_user_id": "2900565097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097883807185772776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnny_onpuchan 你接下来，该不会，对我们敬爱的习主席，做出这种下流的事情吧🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2097914516248121475",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 606,
+          "like_count": 13935,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-24T06:15:57.000Z",
+        "description": "越是疯狂的年代，越要坚守理智",
+        "id": "1385839868526223362",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097895002085228650",
+        "name": "Just",
+        "pinned_tweet_id": "1969748032045359537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385839868526223362/1650621124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517440639197143041/VdMmxO8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 363,
+          "like_count": 30290,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 7834
+        },
+        "url": "",
+        "username": "llakaelf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "is_identity_verified": true,
+        "location": "福冈反革命根据地",
+        "most_recent_tweet_id": "2097883807185772776",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2900565097/1458917216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19393,
+          "following_count": 1457,
+          "like_count": 140432,
+          "listed_count": 111,
+          "media_count": 7759,
+          "tweet_count": 140568
+        },
+        "url": "",
+        "username": "johnny_onpuchan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

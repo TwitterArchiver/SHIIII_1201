@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2090083687006412891",
+    "created_at": "2026-08-20T08:21:19.000Z",
+    "display_text_range": [
+      21,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090353471790993859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897901287834107905",
+          "start": 0,
+          "username": "GrfbB22556"
+        },
+        {
+          "end": 20,
+          "id": "1163059050",
+          "start": 12,
+          "username": "LmhdbAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090353471790993859",
+    "in_reply_to_user_id": "1897901287834107905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090351143159537973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrfbB22556 @LmhdbAi 呃啊啊啊啊啊好会说哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2090083687006412891",
+        "created_at": "2026-08-20T08:21:19.000Z",
+        "display_text_range": [
+          21,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090353471790993859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897901287834107905",
+              "start": 0,
+              "username": "GrfbB22556"
+            },
+            {
+              "end": 20,
+              "id": "1163059050",
+              "start": 12,
+              "username": "LmhdbAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090353471790993859",
+        "in_reply_to_user_id": "1897901287834107905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090351143159537973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrfbB22556 @LmhdbAi 呃啊啊啊啊啊好会说哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897901287834107905",
+        "conversation_id": "2090083687006412891",
+        "created_at": "2026-08-20T08:12:04.000Z",
+        "display_text_range": [
+          22,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090351143159537973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1910709382603825154",
+              "start": 0,
+              "username": "SHIIII_1201"
+            },
+            {
+              "end": 21,
+              "id": "1163059050",
+              "start": 13,
+              "username": "LmhdbAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090351143159537973",
+        "in_reply_to_user_id": "1910709382603825154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090319827730903537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIIII_1201 @LmhdbAi 用来当射畜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2090353471790993859",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 612,
+          "like_count": 13376,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-07T06:45:12.000Z",
+        "description": "精神边缘人 堪堪废料堆 求得真道理 配作假慈悲",
+        "id": "1897901287834107905",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090351143159537973",
+        "name": "边缘废料",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025686705991495680/iHqitj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 182,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 383
+        },
+        "url": "",
+        "username": "GrfbB22556",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-02-09T14:14:02.000Z",
+        "description": "谷歌重度爱好者 | 喜欢 Vibe Coding  |  AI 最忠实的奴仆 | 撸毛买BTC\n\n推文仅表达个人观点，偶尔恰饭\n\n商务合作DM",
+        "id": "1163059050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090341620013240658",
+        "name": "阿毛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1163059050/1782097130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068891428105945088/oO5w_6XL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26234,
+          "following_count": 3558,
+          "like_count": 39707,
+          "listed_count": 84,
+          "media_count": 2763,
+          "tweet_count": 48059
+        },
+        "url": "",
+        "username": "LmhdbAi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
