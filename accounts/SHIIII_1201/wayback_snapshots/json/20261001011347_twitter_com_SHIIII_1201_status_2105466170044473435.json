@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2105206905677463552"
+      ],
+      "media_source_tweet_id": [
+        "2105206969053462953"
+      ]
+    },
+    "author_id": "1910709382603825154",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105466170044473435",
+    "created_at": "2026-10-01T01:13:47.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T02:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105466170044473435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2084085893552623616",
+          "start": 3,
+          "username": "g8wlksyj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzxVSKowIW",
+          "end": 48,
+          "expanded_url": "https://x.com/g8wlksyj/status/2105206969053462953/video/1",
+          "media_key": "7_2105206905677463552",
+          "start": 25,
+          "url": "https://t.co/vzxVSKowIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105466170044473435",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "7_2105206905677463552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105206969053462953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @g8wlksyj: 小习没烦恼 生前视频 https://t.co/vzxVSKowIW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77206,
+        "height": 720,
+        "media_key": "7_2105206905677463552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2105206905677463552/pu/img/eqGQ4LUMzZ8AH2TB.jpg",
+        "public_metrics": {
+          "view_count": 32692
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2105206905677463552/pu/vid/avc1/480x270/ZJtOEm3Dg6K1igND.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2105206905677463552/pu/vid/avc1/640x360/l9z4Z0cdOff_QIrM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2105206905677463552/pu/vid/avc1/1280x720/Pc6TbhEXd_KzFUvl.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2105206905677463552/pu/pl/FalVRpQYy8Xn8vVL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2105206905677463552"
+          ],
+          "media_source_tweet_id": [
+            "2105206969053462953"
+          ]
+        },
+        "author_id": "1910709382603825154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105466170044473435",
+        "created_at": "2026-10-01T01:13:47.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105466170044473435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2084085893552623616",
+              "start": 3,
+              "username": "g8wlksyj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzxVSKowIW",
+              "end": 48,
+              "expanded_url": "https://x.com/g8wlksyj/status/2105206969053462953/video/1",
+              "media_key": "7_2105206905677463552",
+              "start": 25,
+              "url": "https://t.co/vzxVSKowIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105466170044473435",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2105206905677463552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105206969053462953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @g8wlksyj: 小习没烦恼 生前视频 https://t.co/vzxVSKowIW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2105206905677463552"
+          ]
+        },
+        "author_id": "2084085893552623616",
+        "conversation_id": "2105206969053462953",
+        "created_at": "2026-09-30T08:03:48.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105206969053462953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzxVSKowIW",
+              "end": 34,
+              "expanded_url": "https://x.com/g8wlksyj/status/2105206969053462953/video/1",
+              "media_key": "7_2105206905677463552",
+              "start": 11,
+              "url": "https://t.co/vzxVSKowIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105206969053462953",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "7_2105206905677463552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 52216,
+          "like_count": 792,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "小习没烦恼 生前视频 https://t.co/vzxVSKowIW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2105466170044473435",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 612,
+          "like_count": 14734,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T01:21:01.000Z",
+        "description": "本人反对民进党支持国民党反对郑丽文反对赖清德反对习近平反对特朗普",
+        "id": "2084085893552623616",
+        "is_identity_verified": false,
+        "location": "北京领奖",
+        "most_recent_tweet_id": "2105465946429337800",
+        "name": "双向视频搬运工🇹🇼",
+        "pinned_tweet_id": "2105460476125864208",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084085893552623616/1788225203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104364083177037824/7nCxfvrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 63,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "g8wlksyj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

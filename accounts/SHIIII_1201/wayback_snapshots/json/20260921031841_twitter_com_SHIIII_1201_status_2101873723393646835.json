@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2101873723393646835",
+    "created_at": "2026-09-21T03:18:41.000Z",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:18:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101873723393646835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101873723393646835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "山东人的一天：\n6:00，起床，向爹娘磕头问安，沐浴焚香跪拜孔孟。\n7:00，用早膳，煎饼卷大葱。\n8:00，嗯读四书五经，修炼八股文以备科举。\n11:30，打半小时老婆为午膳开胃。\n12:00、用午膳、大葱卷煎饼配豆辦酱。\n17:30.因科举屡次不第公务员被爹娘拷打。\n18:00、用晚膳、打半小时老婆为晚膳开胃。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2101873723393646835",
+        "created_at": "2026-09-21T03:18:41.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101873723393646835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101873723393646835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山东人的一天：\n6:00，起床，向爹娘磕头问安，沐浴焚香跪拜孔孟。\n7:00，用早膳，煎饼卷大葱。\n8:00，嗯读四书五经，修炼八股文以备科举。\n11:30，打半小时老婆为午膳开胃。\n12:00、用午膳、大葱卷煎饼配豆辦酱。\n17:30.因科举屡次不第公务员被爹娘拷打。\n18:00、用晚膳、打半小时老婆为晚膳开胃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2101873723393646835",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 599,
+          "like_count": 14064,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

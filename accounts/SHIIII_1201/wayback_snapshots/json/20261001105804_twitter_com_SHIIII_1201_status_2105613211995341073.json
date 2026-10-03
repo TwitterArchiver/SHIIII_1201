@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1910709382603825154",
+    "conversation_id": "2104704697647202631",
+    "created_at": "2026-10-01T10:58:04.000Z",
+    "display_text_range": [
+      11,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105613211995341073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043541321361600512",
+          "start": 0,
+          "username": "Gunny0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105613211995341073",
+    "in_reply_to_user_id": "2043541321361600512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104704697647202631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gunny0412 其实这两天呼和浩特还好吧，有太阳晒着不会很冷。但会刮风，风刮到身上确实冷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910709382603825154",
+        "conversation_id": "2104704697647202631",
+        "created_at": "2026-10-01T10:58:04.000Z",
+        "display_text_range": [
+          11,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105613211995341073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043541321361600512",
+              "start": 0,
+              "username": "Gunny0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105613211995341073",
+        "in_reply_to_user_id": "2043541321361600512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104704697647202631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gunny0412 其实这两天呼和浩特还好吧，有太阳晒着不会很冷。但会刮风，风刮到身上确实冷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043541321361600512",
+        "conversation_id": "2104704697647202631",
+        "created_at": "2026-09-28T22:47:58.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T23:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104704697647202631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104704697647202631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3482,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "女儿一早电话来说去呼和浩特要带上棉袄，有这么冷吗？查了一下天气预报，问了下ai，果然是这样，呼市早晚气温居然🈶时能到达0度！这可怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-11T15:00:11.000Z",
+        "description": "叫我诗就好:D\n粉红滚一边\n顺女｜不键政｜OD｜上学中｜🏳️‍🌈🏳️‍⚧️友好｜互fo\n ಎ ⊹——˚⊹———— ᮫﹆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SHIi_i1",
+                "end": 23,
+                "expanded_url": "https://t.me/SHIi_i1",
+                "start": 0,
+                "url": "https://t.co/NR0vPNrpdV"
+              }
+            ]
+          }
+        },
+        "id": "1910709382603825154",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2105613211995341073",
+        "name": "诗烬如霜",
+        "pinned_tweet_id": "2083086837334360287",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910709382603825154/1786761338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048641020255252480/xAcGG8tJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 613,
+          "like_count": 14865,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/NR0vPNrpdV",
+        "username": "SHIIII_1201",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-13T04:06:52.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/johndutton0412",
+                "end": 23,
+                "expanded_url": "http://www.x.com/johndutton0412",
+                "start": 0,
+                "url": "https://t.co/MnA78I6RSe"
+              }
+            ]
+          }
+        },
+        "id": "2043541321361600512",
+        "is_identity_verified": false,
+        "location": "Electra Ave,Rowland Heights",
+        "most_recent_tweet_id": "2105597032501309596",
+        "name": "趙趕驢",
+        "pinned_tweet_id": "2095844069348106375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043541321361600512/1789783225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103468033763368960/BuT9XxB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51168,
+          "following_count": 9612,
+          "like_count": 0,
+          "listed_count": 46,
+          "media_count": 2650,
+          "tweet_count": 31973
+        },
+        "url": "https://t.co/MnA78I6RSe",
+        "username": "Gunny0412",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
